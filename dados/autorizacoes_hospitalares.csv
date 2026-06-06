@@ -1,0 +1,1001 @@
+codigo_procedimento,status,justificativa,valor,especialidade
+PROC004,Negado,Incompatibilidade técnica entre o CID informado e o procedimento solicitado.,4406.19,Clínica Médica
+PROC004,Aprovado,Correção de lateralidade e codificação TUSS em conformidade com o pedido.,2274.25,Cirurgia Cardiovascular
+PROC003,Aprovado,Adequação integral às Diretrizes de Utilização (DUT) vigentes.,20170.08,Pneumologia
+PROC018,Aprovado,Indicação adequada e justificada de OPMEs conforme literatura atualizada.,28558.75,Urologia
+PROC001,Aprovado,"Cobertura contratual vigente, sem restrições de carência ou CPT.",10592.05,Gastroenterologia
+PROC007,Aprovado,Correção de lateralidade e codificação TUSS em conformidade com o pedido.,4469.01,Ortopedia e Traumatologia
+PROC012,Aprovado,Adequação integral às Diretrizes de Utilização (DUT) vigentes.,25864.93,Anestesiologia
+PROC018,Negado,Fracionamento indevido de códigos TUSS do procedimento cirúrgico principal.,1879.0,Oncologia
+PROC010,Negado,Negativa por Cobertura Parcial Temporária (CPT) vigente para doença preexistente.,10603.66,Anestesiologia
+PROC003,Aprovado,Indicação adequada e justificada de OPMEs conforme literatura atualizada.,34500.49,Cardiologia
+PROC008,Aprovado,Parecer favorável para manutenção de internação por dependência de cuidados.,22686.13,Oncologia
+PROC012,Aprovado,Alinhamento terapêutico e histórico de esgotamento de linhas conservadoras.,23851.92,Gastroenterologia
+PROC003,Aprovado,Alinhamento terapêutico e histórico de esgotamento de linhas conservadoras.,6723.0,Anestesiologia
+PROC013,Negado,"Procedimento experimental, off-label ou fora do rol de coberturas contratuais.",4343.27,Infectologia
+PROC011,Aprovado,Adequação integral às Diretrizes de Utilização (DUT) vigentes.,28410.55,Cardiologia
+PROC013,Aprovado,"Cobertura contratual vigente, sem restrições de carência ou CPT.",8386.78,Infectologia
+PROC016,Negado,"Divergência na codificação TUSS, lateralidade ou preenchimento incorreto da guia.",3000.25,Ginecologia e Obstetrícia
+PROC005,Negado,"Procedimento experimental, off-label ou fora do rol de coberturas contratuais.",5097.98,Reumatologia
+PROC019,Negado,Fracionamento indevido de códigos TUSS do procedimento cirúrgico principal.,6834.94,Urologia
+PROC005,Aprovado,Adequação integral às Diretrizes de Utilização (DUT) vigentes.,30305.28,Neurocirurgia
+PROC005,Negado,Fracionamento indevido de códigos TUSS do procedimento cirúrgico principal.,10937.16,Gastroenterologia
+PROC013,Aprovado,Parecer favorável para manutenção de internação por dependência de cuidados.,19084.06,Ginecologia e Obstetrícia
+PROC018,Aprovado,Quadro de urgência/emergência devidamente configurado em relatório médico.,24241.81,Clínica Médica
+PROC018,Negado,Negativa por Cobertura Parcial Temporária (CPT) vigente para doença preexistente.,2452.16,Infectologia
+PROC014,Aprovado,Indicação adequada e justificada de OPMEs conforme literatura atualizada.,34049.82,Gastroenterologia
+PROC006,Negado,"Tratamento elegível para via ambulatorial, sem justificativa clínica para internação.",15229.21,Neurocirurgia
+PROC017,Aprovado,"Cobertura contratual vigente, sem restrições de carência ou CPT.",26972.87,Anestesiologia
+PROC018,Negado,Falta de comprovação do esgotamento de linhas de tratamento conservadoras.,6172.73,Neurocirurgia
+PROC001,Negado,"Tratamento elegível para via ambulatorial, sem justificativa clínica para internação.",4690.42,Oncologia
+PROC008,Negado,"Glosa técnica por incompatibilidade, redundância ou excesso de OPMEs solicitadas.",13308.38,Pediatria
+PROC003,Negado,Ausência de exames complementares que comprovem a necessidade do procedimento.,12045.64,Cirurgia Cardiovascular
+PROC018,Aprovado,Correção de lateralidade e codificação TUSS em conformidade com o pedido.,33795.47,Gastroenterologia
+PROC018,Negado,Fracionamento indevido de códigos TUSS do procedimento cirúrgico principal.,17915.11,Pneumologia
+PROC012,Negado,"Divergência na codificação TUSS, lateralidade ou preenchimento incorreto da guia.",2617.57,Oftalmologia
+PROC008,Aprovado,Alinhamento terapêutico e histórico de esgotamento de linhas conservadoras.,21089.28,Neurologia
+PROC001,Negado,Não preenchimento dos critérios estabelecidos nas Diretrizes de Utilização (DUT).,4506.48,Neurologia
+PROC002,Aprovado,Alinhamento terapêutico e histórico de esgotamento de linhas conservadoras.,10612.53,Ortopedia e Traumatologia
+PROC016,Aprovado,Parecer favorável para manutenção de internação por dependência de cuidados.,9413.31,Pneumologia
+PROC016,Aprovado,Quadro de urgência/emergência devidamente configurado em relatório médico.,23473.62,Urologia
+PROC012,Aprovado,Adequação integral às Diretrizes de Utilização (DUT) vigentes.,23959.72,Urologia
+PROC004,Aprovado,"Cobertura contratual vigente, sem restrições de carência ou CPT.",28260.03,Cardiologia
+PROC004,Aprovado,Parecer favorável para manutenção de internação por dependência de cuidados.,5938.16,Reumatologia
+PROC006,Aprovado,Quadro de urgência/emergência devidamente configurado em relatório médico.,16177.82,Infectologia
+PROC018,Aprovado,Adequação integral às Diretrizes de Utilização (DUT) vigentes.,33952.07,Oncologia
+PROC008,Aprovado,Parecer favorável para manutenção de internação por dependência de cuidados.,8424.66,Gastroenterologia
+PROC013,Aprovado,Adequação integral às Diretrizes de Utilização (DUT) vigentes.,34503.44,Cardiologia
+PROC009,Aprovado,Parecer favorável para manutenção de internação por dependência de cuidados.,6432.13,Oftalmologia
+PROC010,Negado,Falta de comprovação do esgotamento de linhas de tratamento conservadoras.,13375.4,Pneumologia
+PROC002,Aprovado,Parecer favorável para manutenção de internação por dependência de cuidados.,18196.34,Ortopedia e Traumatologia
+PROC017,Aprovado,Quadro de urgência/emergência devidamente configurado em relatório médico.,29975.38,Gastroenterologia
+PROC003,Aprovado,Alinhamento terapêutico e histórico de esgotamento de linhas conservadoras.,14847.61,Anestesiologia
+PROC019,Aprovado,Adequação integral às Diretrizes de Utilização (DUT) vigentes.,22135.1,Reumatologia
+PROC014,Aprovado,"Cobertura contratual vigente, sem restrições de carência ou CPT.",32793.07,Pediatria
+PROC007,Aprovado,Correção de lateralidade e codificação TUSS em conformidade com o pedido.,5623.69,Ortopedia e Traumatologia
+PROC010,Aprovado,Quadro de urgência/emergência devidamente configurado em relatório médico.,1514.86,Oftalmologia
+PROC020,Negado,"Glosa técnica por incompatibilidade, redundância ou excesso de OPMEs solicitadas.",9908.6,Pediatria
+PROC017,Aprovado,"Cobertura contratual vigente, sem restrições de carência ou CPT.",30973.21,Infectologia
+PROC008,Aprovado,Parecer favorável para manutenção de internação por dependência de cuidados.,29380.58,Cirurgia Geral
+PROC010,Negado,"Procedimento experimental, off-label ou fora do rol de coberturas contratuais.",636.9,Anestesiologia
+PROC018,Negado,"Glosa técnica por incompatibilidade, redundância ou excesso de OPMEs solicitadas.",16931.28,Nefrologia
+PROC005,Aprovado,Quadro de urgência/emergência devidamente configurado em relatório médico.,26293.68,Infectologia
+PROC005,Aprovado,Alinhamento terapêutico e histórico de esgotamento de linhas conservadoras.,25455.29,Infectologia
+PROC007,Aprovado,Indicação adequada e justificada de OPMEs conforme literatura atualizada.,31800.37,Infectologia
+PROC002,Aprovado,Indicação adequada e justificada de OPMEs conforme literatura atualizada.,2690.13,Neurologia
+PROC011,Aprovado,Indicação adequada e justificada de OPMEs conforme literatura atualizada.,6661.47,Endocrinologia
+PROC015,Negado,"Procedimento experimental, off-label ou fora do rol de coberturas contratuais.",669.22,Cirurgia Cardiovascular
+PROC003,Aprovado,"Cobertura contratual vigente, sem restrições de carência ou CPT.",20888.82,Endocrinologia
+PROC005,Aprovado,Indicação adequada e justificada de OPMEs conforme literatura atualizada.,13525.22,Urologia
+PROC002,Aprovado,Alinhamento terapêutico e histórico de esgotamento de linhas conservadoras.,23742.35,Cirurgia Geral
+PROC012,Negado,Fracionamento indevido de códigos TUSS do procedimento cirúrgico principal.,17542.15,Cirurgia Cardiovascular
+PROC005,Negado,Ausência de exames complementares que comprovem a necessidade do procedimento.,15924.78,Reumatologia
+PROC001,Negado,Negativa por Cobertura Parcial Temporária (CPT) vigente para doença preexistente.,14191.76,Gastroenterologia
+PROC014,Aprovado,Quadro de urgência/emergência devidamente configurado em relatório médico.,14129.91,Reumatologia
+PROC002,Aprovado,Parecer favorável para manutenção de internação por dependência de cuidados.,13018.45,Otorrinolaringologia
+PROC008,Aprovado,Alinhamento terapêutico e histórico de esgotamento de linhas conservadoras.,14668.15,Reumatologia
+PROC009,Negado,"Tratamento elegível para via ambulatorial, sem justificativa clínica para internação.",6645.06,Neurologia
+PROC017,Aprovado,"Cobertura contratual vigente, sem restrições de carência ou CPT.",32946.22,Ginecologia e Obstetrícia
+PROC004,Aprovado,Indicação adequada e justificada de OPMEs conforme literatura atualizada.,2493.09,Infectologia
+PROC020,Aprovado,"Cobertura contratual vigente, sem restrições de carência ou CPT.",15950.11,Urologia
+PROC017,Aprovado,Alinhamento terapêutico e histórico de esgotamento de linhas conservadoras.,9809.62,Oncologia
+PROC014,Aprovado,Alinhamento terapêutico e histórico de esgotamento de linhas conservadoras.,13510.69,Clínica Médica
+PROC003,Aprovado,Quadro de urgência/emergência devidamente configurado em relatório médico.,25527.69,Ortopedia e Traumatologia
+PROC010,Aprovado,Correção de lateralidade e codificação TUSS em conformidade com o pedido.,12224.98,Neurocirurgia
+PROC010,Aprovado,Correção de lateralidade e codificação TUSS em conformidade com o pedido.,23674.61,Cirurgia Cardiovascular
+PROC013,Aprovado,Indicação adequada e justificada de OPMEs conforme literatura atualizada.,14925.34,Gastroenterologia
+PROC001,Aprovado,Correção de lateralidade e codificação TUSS em conformidade com o pedido.,27758.65,Nefrologia
+PROC020,Aprovado,Parecer favorável para manutenção de internação por dependência de cuidados.,24036.2,Ortopedia e Traumatologia
+PROC017,Negado,Ausência de exames complementares que comprovem a necessidade do procedimento.,12029.89,Otorrinolaringologia
+PROC010,Aprovado,"Cobertura contratual vigente, sem restrições de carência ou CPT.",4356.49,Neurocirurgia
+PROC008,Aprovado,Alinhamento terapêutico e histórico de esgotamento de linhas conservadoras.,6180.56,Nefrologia
+PROC002,Negado,Falta de comprovação do esgotamento de linhas de tratamento conservadoras.,15370.41,Reumatologia
+PROC003,Aprovado,Alinhamento terapêutico e histórico de esgotamento de linhas conservadoras.,25480.09,Oftalmologia
+PROC013,Aprovado,Pertinência clínica do procedimento corroborada por exames complementares.,23374.76,Otorrinolaringologia
+PROC001,Negado,Incompatibilidade técnica entre o CID informado e o procedimento solicitado.,3578.02,Oncologia
+PROC017,Aprovado,Alinhamento terapêutico e histórico de esgotamento de linhas conservadoras.,32210.49,Oftalmologia
+PROC004,Aprovado,Parecer favorável para manutenção de internação por dependência de cuidados.,23764.13,Oftalmologia
+PROC018,Aprovado,Parecer favorável para manutenção de internação por dependência de cuidados.,21907.65,Anestesiologia
+PROC017,Negado,"Procedimento experimental, off-label ou fora do rol de coberturas contratuais.",8303.49,Urologia
+PROC006,Aprovado,Alinhamento terapêutico e histórico de esgotamento de linhas conservadoras.,29587.37,Otorrinolaringologia
+PROC009,Aprovado,Alinhamento terapêutico e histórico de esgotamento de linhas conservadoras.,10481.39,Neurocirurgia
+PROC003,Aprovado,"Cobertura contratual vigente, sem restrições de carência ou CPT.",12006.18,Nefrologia
+PROC018,Aprovado,Alinhamento terapêutico e histórico de esgotamento de linhas conservadoras.,14146.59,Neurologia
+PROC005,Aprovado,Correção de lateralidade e codificação TUSS em conformidade com o pedido.,12383.79,Pneumologia
+PROC015,Aprovado,Correção de lateralidade e codificação TUSS em conformidade com o pedido.,14364.32,Urologia
+PROC019,Negado,Falta de comprovação do esgotamento de linhas de tratamento conservadoras.,7156.67,Clínica Médica
+PROC001,Aprovado,Correção de lateralidade e codificação TUSS em conformidade com o pedido.,30046.54,Cirurgia Geral
+PROC014,Negado,"Procedimento experimental, off-label ou fora do rol de coberturas contratuais.",14497.69,Cirurgia Cardiovascular
+PROC008,Aprovado,Correção de lateralidade e codificação TUSS em conformidade com o pedido.,17614.7,Otorrinolaringologia
+PROC013,Aprovado,Correção de lateralidade e codificação TUSS em conformidade com o pedido.,25677.33,Ortopedia e Traumatologia
+PROC015,Negado,"Procedimento experimental, off-label ou fora do rol de coberturas contratuais.",971.91,Endocrinologia
+PROC013,Aprovado,Adequação integral às Diretrizes de Utilização (DUT) vigentes.,4037.42,Pediatria
+PROC014,Negado,Ausência de exames complementares que comprovem a necessidade do procedimento.,1379.98,Endocrinologia
+PROC013,Aprovado,"Cobertura contratual vigente, sem restrições de carência ou CPT.",12607.52,Ortopedia e Traumatologia
+PROC013,Negado,Fracionamento indevido de códigos TUSS do procedimento cirúrgico principal.,4914.75,Infectologia
+PROC003,Aprovado,Adequação integral às Diretrizes de Utilização (DUT) vigentes.,34996.88,Otorrinolaringologia
+PROC012,Aprovado,Adequação integral às Diretrizes de Utilização (DUT) vigentes.,26693.08,Reumatologia
+PROC008,Negado,Falta de comprovação do esgotamento de linhas de tratamento conservadoras.,3166.69,Pneumologia
+PROC005,Aprovado,Alinhamento terapêutico e histórico de esgotamento de linhas conservadoras.,16918.15,Otorrinolaringologia
+PROC009,Aprovado,Quadro de urgência/emergência devidamente configurado em relatório médico.,27489.37,Cirurgia Geral
+PROC006,Aprovado,Adequação integral às Diretrizes de Utilização (DUT) vigentes.,32596.39,Nefrologia
+PROC019,Aprovado,Alinhamento terapêutico e histórico de esgotamento de linhas conservadoras.,3768.68,Ginecologia e Obstetrícia
+PROC008,Aprovado,Indicação adequada e justificada de OPMEs conforme literatura atualizada.,29939.91,Oncologia
+PROC020,Negado,Falta de comprovação do esgotamento de linhas de tratamento conservadoras.,14196.12,Oncologia
+PROC012,Aprovado,"Cobertura contratual vigente, sem restrições de carência ou CPT.",3530.74,Cirurgia Cardiovascular
+PROC011,Negado,"Divergência na codificação TUSS, lateralidade ou preenchimento incorreto da guia.",2346.93,Clínica Médica
+PROC012,Negado,Fracionamento indevido de códigos TUSS do procedimento cirúrgico principal.,3582.4,Oftalmologia
+PROC017,Aprovado,Parecer favorável para manutenção de internação por dependência de cuidados.,16912.73,Infectologia
+PROC019,Aprovado,Alinhamento terapêutico e histórico de esgotamento de linhas conservadoras.,29278.71,Infectologia
+PROC003,Negado,Incompatibilidade técnica entre o CID informado e o procedimento solicitado.,13633.33,Infectologia
+PROC019,Aprovado,"Cobertura contratual vigente, sem restrições de carência ou CPT.",2170.06,Anestesiologia
+PROC011,Aprovado,"Cobertura contratual vigente, sem restrições de carência ou CPT.",28166.73,Gastroenterologia
+PROC011,Negado,"Tratamento elegível para via ambulatorial, sem justificativa clínica para internação.",10226.34,Infectologia
+PROC017,Aprovado,Correção de lateralidade e codificação TUSS em conformidade com o pedido.,17713.93,Pneumologia
+PROC008,Aprovado,Parecer favorável para manutenção de internação por dependência de cuidados.,16348.3,Otorrinolaringologia
+PROC001,Aprovado,Correção de lateralidade e codificação TUSS em conformidade com o pedido.,24582.41,Neurologia
+PROC010,Aprovado,"Cobertura contratual vigente, sem restrições de carência ou CPT.",15582.03,Pediatria
+PROC018,Aprovado,Parecer favorável para manutenção de internação por dependência de cuidados.,10356.98,Ortopedia e Traumatologia
+PROC009,Aprovado,Alinhamento terapêutico e histórico de esgotamento de linhas conservadoras.,11865.52,Reumatologia
+PROC018,Aprovado,Parecer favorável para manutenção de internação por dependência de cuidados.,10545.69,Gastroenterologia
+PROC019,Aprovado,Quadro de urgência/emergência devidamente configurado em relatório médico.,29342.84,Neurocirurgia
+PROC010,Aprovado,Indicação adequada e justificada de OPMEs conforme literatura atualizada.,1678.21,Reumatologia
+PROC018,Aprovado,Adequação integral às Diretrizes de Utilização (DUT) vigentes.,19903.53,Endocrinologia
+PROC005,Aprovado,Adequação integral às Diretrizes de Utilização (DUT) vigentes.,20603.37,Otorrinolaringologia
+PROC016,Aprovado,Pertinência clínica do procedimento corroborada por exames complementares.,33833.82,Otorrinolaringologia
+PROC009,Aprovado,Quadro de urgência/emergência devidamente configurado em relatório médico.,14743.91,Otorrinolaringologia
+PROC003,Aprovado,Adequação integral às Diretrizes de Utilização (DUT) vigentes.,6328.37,Pediatria
+PROC019,Aprovado,Alinhamento terapêutico e histórico de esgotamento de linhas conservadoras.,5203.66,Nefrologia
+PROC014,Aprovado,Alinhamento terapêutico e histórico de esgotamento de linhas conservadoras.,27418.44,Anestesiologia
+PROC013,Negado,"Tratamento elegível para via ambulatorial, sem justificativa clínica para internação.",15552.92,Oftalmologia
+PROC014,Aprovado,Adequação integral às Diretrizes de Utilização (DUT) vigentes.,21805.52,Nefrologia
+PROC004,Aprovado,Indicação adequada e justificada de OPMEs conforme literatura atualizada.,23522.47,Pneumologia
+PROC006,Aprovado,Quadro de urgência/emergência devidamente configurado em relatório médico.,6490.8,Reumatologia
+PROC014,Aprovado,Parecer favorável para manutenção de internação por dependência de cuidados.,11044.56,Oftalmologia
+PROC008,Negado,"Divergência na codificação TUSS, lateralidade ou preenchimento incorreto da guia.",1745.65,Nefrologia
+PROC008,Negado,Falta de comprovação do esgotamento de linhas de tratamento conservadoras.,12070.7,Infectologia
+PROC007,Aprovado,Alinhamento terapêutico e histórico de esgotamento de linhas conservadoras.,23090.05,Urologia
+PROC009,Aprovado,Pertinência clínica do procedimento corroborada por exames complementares.,27990.85,Endocrinologia
+PROC020,Negado,"Divergência na codificação TUSS, lateralidade ou preenchimento incorreto da guia.",2676.19,Pediatria
+PROC010,Negado,"Procedimento experimental, off-label ou fora do rol de coberturas contratuais.",9949.68,Ginecologia e Obstetrícia
+PROC015,Aprovado,Correção de lateralidade e codificação TUSS em conformidade com o pedido.,26027.25,Neurologia
+PROC020,Aprovado,Alinhamento terapêutico e histórico de esgotamento de linhas conservadoras.,33712.6,Infectologia
+PROC019,Negado,"Tratamento elegível para via ambulatorial, sem justificativa clínica para internação.",10584.32,Pediatria
+PROC006,Aprovado,Parecer favorável para manutenção de internação por dependência de cuidados.,32163.26,Otorrinolaringologia
+PROC006,Aprovado,Parecer favorável para manutenção de internação por dependência de cuidados.,33954.07,Pediatria
+PROC016,Aprovado,"Cobertura contratual vigente, sem restrições de carência ou CPT.",23850.51,Cirurgia Geral
+PROC006,Aprovado,Parecer favorável para manutenção de internação por dependência de cuidados.,10941.76,Ortopedia e Traumatologia
+PROC013,Aprovado,Quadro de urgência/emergência devidamente configurado em relatório médico.,11830.68,Cirurgia Cardiovascular
+PROC011,Negado,Fracionamento indevido de códigos TUSS do procedimento cirúrgico principal.,15635.94,Oncologia
+PROC001,Aprovado,Adequação integral às Diretrizes de Utilização (DUT) vigentes.,7540.29,Cirurgia Cardiovascular
+PROC012,Negado,"Divergência na codificação TUSS, lateralidade ou preenchimento incorreto da guia.",13799.83,Anestesiologia
+PROC007,Aprovado,Indicação adequada e justificada de OPMEs conforme literatura atualizada.,16008.32,Infectologia
+PROC016,Aprovado,Alinhamento terapêutico e histórico de esgotamento de linhas conservadoras.,25190.66,Oncologia
+PROC010,Aprovado,Correção de lateralidade e codificação TUSS em conformidade com o pedido.,4350.47,Cirurgia Cardiovascular
+PROC004,Negado,Ausência de exames complementares que comprovem a necessidade do procedimento.,9221.57,Oftalmologia
+PROC010,Negado,Fracionamento indevido de códigos TUSS do procedimento cirúrgico principal.,15107.67,Neurocirurgia
+PROC016,Aprovado,Pertinência clínica do procedimento corroborada por exames complementares.,14165.21,Reumatologia
+PROC020,Negado,Ausência de exames complementares que comprovem a necessidade do procedimento.,15620.47,Neurocirurgia
+PROC009,Aprovado,Indicação adequada e justificada de OPMEs conforme literatura atualizada.,28934.57,Urologia
+PROC010,Negado,Falta de comprovação do esgotamento de linhas de tratamento conservadoras.,17980.79,Nefrologia
+PROC016,Aprovado,Parecer favorável para manutenção de internação por dependência de cuidados.,12865.19,Endocrinologia
+PROC018,Aprovado,"Cobertura contratual vigente, sem restrições de carência ou CPT.",30592.54,Cirurgia Cardiovascular
+PROC008,Aprovado,Correção de lateralidade e codificação TUSS em conformidade com o pedido.,2675.28,Pediatria
+PROC016,Aprovado,Pertinência clínica do procedimento corroborada por exames complementares.,17942.11,Ginecologia e Obstetrícia
+PROC002,Aprovado,"Cobertura contratual vigente, sem restrições de carência ou CPT.",30595.87,Endocrinologia
+PROC015,Aprovado,Parecer favorável para manutenção de internação por dependência de cuidados.,1718.75,Oncologia
+PROC005,Negado,Ausência de exames complementares que comprovem a necessidade do procedimento.,1809.49,Urologia
+PROC009,Aprovado,Correção de lateralidade e codificação TUSS em conformidade com o pedido.,23164.48,Ortopedia e Traumatologia
+PROC011,Aprovado,"Cobertura contratual vigente, sem restrições de carência ou CPT.",22385.81,Cirurgia Cardiovascular
+PROC016,Aprovado,Quadro de urgência/emergência devidamente configurado em relatório médico.,9135.23,Cirurgia Cardiovascular
+PROC010,Negado,Fracionamento indevido de códigos TUSS do procedimento cirúrgico principal.,17620.91,Reumatologia
+PROC004,Aprovado,Indicação adequada e justificada de OPMEs conforme literatura atualizada.,31735.73,Oftalmologia
+PROC002,Negado,"Tratamento elegível para via ambulatorial, sem justificativa clínica para internação.",6773.11,Ortopedia e Traumatologia
+PROC014,Aprovado,Correção de lateralidade e codificação TUSS em conformidade com o pedido.,20328.37,Endocrinologia
+PROC006,Aprovado,Correção de lateralidade e codificação TUSS em conformidade com o pedido.,22146.21,Gastroenterologia
+PROC008,Negado,Ausência de exames complementares que comprovem a necessidade do procedimento.,4563.3,Otorrinolaringologia
+PROC009,Aprovado,Adequação integral às Diretrizes de Utilização (DUT) vigentes.,31583.11,Oftalmologia
+PROC015,Aprovado,Pertinência clínica do procedimento corroborada por exames complementares.,3696.53,Nefrologia
+PROC012,Aprovado,Correção de lateralidade e codificação TUSS em conformidade com o pedido.,24532.6,Pediatria
+PROC015,Aprovado,Correção de lateralidade e codificação TUSS em conformidade com o pedido.,30042.74,Nefrologia
+PROC004,Aprovado,"Cobertura contratual vigente, sem restrições de carência ou CPT.",20628.64,Reumatologia
+PROC010,Negado,Fracionamento indevido de códigos TUSS do procedimento cirúrgico principal.,5303.41,Clínica Médica
+PROC019,Negado,"Divergência na codificação TUSS, lateralidade ou preenchimento incorreto da guia.",15074.68,Cardiologia
+PROC010,Aprovado,"Cobertura contratual vigente, sem restrições de carência ou CPT.",8602.35,Reumatologia
+PROC007,Aprovado,Pertinência clínica do procedimento corroborada por exames complementares.,22434.79,Anestesiologia
+PROC002,Negado,Não preenchimento dos critérios estabelecidos nas Diretrizes de Utilização (DUT).,10642.54,Nefrologia
+PROC005,Negado,Negativa por Cobertura Parcial Temporária (CPT) vigente para doença preexistente.,13580.92,Neurologia
+PROC006,Aprovado,"Cobertura contratual vigente, sem restrições de carência ou CPT.",19142.81,Pneumologia
+PROC009,Aprovado,Parecer favorável para manutenção de internação por dependência de cuidados.,33897.58,Gastroenterologia
+PROC010,Negado,"Divergência na codificação TUSS, lateralidade ou preenchimento incorreto da guia.",17350.63,Ortopedia e Traumatologia
+PROC005,Negado,Fracionamento indevido de códigos TUSS do procedimento cirúrgico principal.,17427.22,Reumatologia
+PROC018,Aprovado,Correção de lateralidade e codificação TUSS em conformidade com o pedido.,1670.45,Cirurgia Geral
+PROC018,Aprovado,Indicação adequada e justificada de OPMEs conforme literatura atualizada.,20958.13,Oncologia
+PROC012,Aprovado,Parecer favorável para manutenção de internação por dependência de cuidados.,2045.83,Oncologia
+PROC018,Negado,Incompatibilidade técnica entre o CID informado e o procedimento solicitado.,11833.92,Ortopedia e Traumatologia
+PROC015,Aprovado,Quadro de urgência/emergência devidamente configurado em relatório médico.,5924.46,Nefrologia
+PROC002,Negado,"Glosa técnica por incompatibilidade, redundância ou excesso de OPMEs solicitadas.",2200.86,Nefrologia
+PROC018,Aprovado,"Cobertura contratual vigente, sem restrições de carência ou CPT.",23862.43,Endocrinologia
+PROC018,Aprovado,Pertinência clínica do procedimento corroborada por exames complementares.,31126.99,Urologia
+PROC004,Aprovado,Indicação adequada e justificada de OPMEs conforme literatura atualizada.,2305.81,Otorrinolaringologia
+PROC012,Aprovado,Alinhamento terapêutico e histórico de esgotamento de linhas conservadoras.,30114.22,Pneumologia
+PROC004,Aprovado,"Cobertura contratual vigente, sem restrições de carência ou CPT.",3246.59,Cirurgia Geral
+PROC009,Negado,"Divergência na codificação TUSS, lateralidade ou preenchimento incorreto da guia.",2104.28,Pneumologia
+PROC007,Negado,Não preenchimento dos critérios estabelecidos nas Diretrizes de Utilização (DUT).,14268.91,Anestesiologia
+PROC008,Negado,Incompatibilidade técnica entre o CID informado e o procedimento solicitado.,1700.68,Endocrinologia
+PROC018,Aprovado,Alinhamento terapêutico e histórico de esgotamento de linhas conservadoras.,12305.31,Pneumologia
+PROC005,Aprovado,Pertinência clínica do procedimento corroborada por exames complementares.,34578.42,Anestesiologia
+PROC018,Negado,"Glosa técnica por incompatibilidade, redundância ou excesso de OPMEs solicitadas.",12068.51,Infectologia
+PROC001,Aprovado,Alinhamento terapêutico e histórico de esgotamento de linhas conservadoras.,21103.23,Endocrinologia
+PROC001,Aprovado,Pertinência clínica do procedimento corroborada por exames complementares.,26270.07,Gastroenterologia
+PROC017,Negado,"Divergência na codificação TUSS, lateralidade ou preenchimento incorreto da guia.",8344.82,Oncologia
+PROC012,Aprovado,Parecer favorável para manutenção de internação por dependência de cuidados.,18229.75,Neurocirurgia
+PROC020,Negado,"Procedimento experimental, off-label ou fora do rol de coberturas contratuais.",5778.53,Cardiologia
+PROC001,Negado,Fracionamento indevido de códigos TUSS do procedimento cirúrgico principal.,7959.79,Cardiologia
+PROC004,Negado,"Divergência na codificação TUSS, lateralidade ou preenchimento incorreto da guia.",1786.09,Otorrinolaringologia
+PROC003,Aprovado,Quadro de urgência/emergência devidamente configurado em relatório médico.,5465.28,Ortopedia e Traumatologia
+PROC020,Aprovado,"Cobertura contratual vigente, sem restrições de carência ou CPT.",14074.57,Pediatria
+PROC020,Aprovado,Correção de lateralidade e codificação TUSS em conformidade com o pedido.,4552.23,Neurocirurgia
+PROC004,Negado,Incompatibilidade técnica entre o CID informado e o procedimento solicitado.,8026.22,Cirurgia Cardiovascular
+PROC008,Aprovado,Parecer favorável para manutenção de internação por dependência de cuidados.,14677.08,Urologia
+PROC004,Aprovado,Indicação adequada e justificada de OPMEs conforme literatura atualizada.,13851.37,Ortopedia e Traumatologia
+PROC005,Aprovado,Quadro de urgência/emergência devidamente configurado em relatório médico.,4351.18,Otorrinolaringologia
+PROC004,Negado,"Procedimento experimental, off-label ou fora do rol de coberturas contratuais.",1549.67,Cirurgia Geral
+PROC018,Aprovado,Quadro de urgência/emergência devidamente configurado em relatório médico.,15085.33,Cirurgia Cardiovascular
+PROC014,Negado,Falta de comprovação do esgotamento de linhas de tratamento conservadoras.,5967.86,Cardiologia
+PROC004,Aprovado,Pertinência clínica do procedimento corroborada por exames complementares.,23397.69,Pediatria
+PROC008,Aprovado,"Cobertura contratual vigente, sem restrições de carência ou CPT.",5083.12,Oncologia
+PROC009,Aprovado,Correção de lateralidade e codificação TUSS em conformidade com o pedido.,29766.24,Pediatria
+PROC020,Aprovado,Adequação integral às Diretrizes de Utilização (DUT) vigentes.,21784.03,Anestesiologia
+PROC009,Aprovado,Indicação adequada e justificada de OPMEs conforme literatura atualizada.,32347.97,Clínica Médica
+PROC012,Aprovado,Pertinência clínica do procedimento corroborada por exames complementares.,20341.65,Clínica Médica
+PROC013,Aprovado,Adequação integral às Diretrizes de Utilização (DUT) vigentes.,4301.41,Neurologia
+PROC017,Aprovado,Parecer favorável para manutenção de internação por dependência de cuidados.,12722.28,Pneumologia
+PROC012,Negado,Falta de comprovação do esgotamento de linhas de tratamento conservadoras.,10933.92,Nefrologia
+PROC002,Aprovado,Adequação integral às Diretrizes de Utilização (DUT) vigentes.,23980.14,Endocrinologia
+PROC009,Aprovado,Parecer favorável para manutenção de internação por dependência de cuidados.,21719.17,Oftalmologia
+PROC014,Aprovado,Quadro de urgência/emergência devidamente configurado em relatório médico.,12866.84,Infectologia
+PROC004,Aprovado,Parecer favorável para manutenção de internação por dependência de cuidados.,19010.37,Nefrologia
+PROC010,Aprovado,Adequação integral às Diretrizes de Utilização (DUT) vigentes.,1459.82,Cardiologia
+PROC010,Negado,"Tratamento elegível para via ambulatorial, sem justificativa clínica para internação.",5565.32,Pneumologia
+PROC004,Aprovado,Correção de lateralidade e codificação TUSS em conformidade com o pedido.,7138.48,Clínica Médica
+PROC013,Negado,"Procedimento experimental, off-label ou fora do rol de coberturas contratuais.",10277.66,Cirurgia Cardiovascular
+PROC012,Aprovado,Adequação integral às Diretrizes de Utilização (DUT) vigentes.,15944.22,Neurologia
+PROC015,Negado,Falta de comprovação do esgotamento de linhas de tratamento conservadoras.,8012.48,Neurologia
+PROC013,Aprovado,Correção de lateralidade e codificação TUSS em conformidade com o pedido.,1904.95,Urologia
+PROC011,Negado,Falta de comprovação do esgotamento de linhas de tratamento conservadoras.,8551.7,Gastroenterologia
+PROC012,Aprovado,Quadro de urgência/emergência devidamente configurado em relatório médico.,9424.1,Neurologia
+PROC019,Aprovado,Correção de lateralidade e codificação TUSS em conformidade com o pedido.,30623.73,Ginecologia e Obstetrícia
+PROC011,Aprovado,Pertinência clínica do procedimento corroborada por exames complementares.,3781.62,Reumatologia
+PROC004,Aprovado,"Cobertura contratual vigente, sem restrições de carência ou CPT.",13067.17,Neurocirurgia
+PROC005,Aprovado,Indicação adequada e justificada de OPMEs conforme literatura atualizada.,7867.79,Reumatologia
+PROC020,Negado,"Glosa técnica por incompatibilidade, redundância ou excesso de OPMEs solicitadas.",3600.06,Endocrinologia
+PROC016,Negado,Falta de comprovação do esgotamento de linhas de tratamento conservadoras.,8355.84,Oftalmologia
+PROC019,Aprovado,"Cobertura contratual vigente, sem restrições de carência ou CPT.",6302.36,Anestesiologia
+PROC003,Aprovado,Indicação adequada e justificada de OPMEs conforme literatura atualizada.,28115.94,Otorrinolaringologia
+PROC019,Aprovado,Quadro de urgência/emergência devidamente configurado em relatório médico.,11691.79,Cardiologia
+PROC015,Aprovado,Indicação adequada e justificada de OPMEs conforme literatura atualizada.,3793.51,Cardiologia
+PROC003,Aprovado,Correção de lateralidade e codificação TUSS em conformidade com o pedido.,16839.65,Anestesiologia
+PROC018,Aprovado,Alinhamento terapêutico e histórico de esgotamento de linhas conservadoras.,12067.6,Cardiologia
+PROC016,Aprovado,Adequação integral às Diretrizes de Utilização (DUT) vigentes.,16427.68,Neurocirurgia
+PROC011,Aprovado,Pertinência clínica do procedimento corroborada por exames complementares.,2523.0,Neurologia
+PROC015,Aprovado,Pertinência clínica do procedimento corroborada por exames complementares.,13499.75,Oftalmologia
+PROC010,Aprovado,"Cobertura contratual vigente, sem restrições de carência ou CPT.",24146.74,Ginecologia e Obstetrícia
+PROC002,Aprovado,Quadro de urgência/emergência devidamente configurado em relatório médico.,20059.16,Ortopedia e Traumatologia
+PROC013,Aprovado,Pertinência clínica do procedimento corroborada por exames complementares.,12467.64,Nefrologia
+PROC019,Negado,"Tratamento elegível para via ambulatorial, sem justificativa clínica para internação.",17434.69,Endocrinologia
+PROC013,Aprovado,Quadro de urgência/emergência devidamente configurado em relatório médico.,11663.87,Endocrinologia
+PROC013,Negado,"Procedimento experimental, off-label ou fora do rol de coberturas contratuais.",2135.43,Ortopedia e Traumatologia
+PROC014,Aprovado,"Cobertura contratual vigente, sem restrições de carência ou CPT.",11639.67,Neurocirurgia
+PROC007,Negado,"Divergência na codificação TUSS, lateralidade ou preenchimento incorreto da guia.",3860.09,Ortopedia e Traumatologia
+PROC005,Aprovado,Quadro de urgência/emergência devidamente configurado em relatório médico.,18359.91,Endocrinologia
+PROC018,Aprovado,"Cobertura contratual vigente, sem restrições de carência ou CPT.",30822.08,Neurocirurgia
+PROC020,Aprovado,Pertinência clínica do procedimento corroborada por exames complementares.,6683.96,Endocrinologia
+PROC020,Negado,Não preenchimento dos critérios estabelecidos nas Diretrizes de Utilização (DUT).,7690.03,Gastroenterologia
+PROC008,Aprovado,Parecer favorável para manutenção de internação por dependência de cuidados.,9109.3,Oftalmologia
+PROC008,Negado,"Divergência na codificação TUSS, lateralidade ou preenchimento incorreto da guia.",16319.55,Nefrologia
+PROC007,Aprovado,Parecer favorável para manutenção de internação por dependência de cuidados.,16804.78,Cirurgia Geral
+PROC010,Aprovado,Correção de lateralidade e codificação TUSS em conformidade com o pedido.,33859.86,Ginecologia e Obstetrícia
+PROC007,Aprovado,Indicação adequada e justificada de OPMEs conforme literatura atualizada.,2963.68,Anestesiologia
+PROC016,Aprovado,Quadro de urgência/emergência devidamente configurado em relatório médico.,25245.35,Cirurgia Geral
+PROC017,Aprovado,Pertinência clínica do procedimento corroborada por exames complementares.,10420.35,Oncologia
+PROC017,Negado,"Glosa técnica por incompatibilidade, redundância ou excesso de OPMEs solicitadas.",17062.23,Endocrinologia
+PROC008,Negado,Não preenchimento dos critérios estabelecidos nas Diretrizes de Utilização (DUT).,7760.7,Oftalmologia
+PROC013,Aprovado,Correção de lateralidade e codificação TUSS em conformidade com o pedido.,34814.96,Neurocirurgia
+PROC012,Aprovado,Quadro de urgência/emergência devidamente configurado em relatório médico.,29564.16,Reumatologia
+PROC011,Aprovado,Indicação adequada e justificada de OPMEs conforme literatura atualizada.,32207.99,Endocrinologia
+PROC016,Negado,"Divergência na codificação TUSS, lateralidade ou preenchimento incorreto da guia.",8350.53,Endocrinologia
+PROC001,Aprovado,Alinhamento terapêutico e histórico de esgotamento de linhas conservadoras.,29421.75,Neurologia
+PROC018,Aprovado,Quadro de urgência/emergência devidamente configurado em relatório médico.,27434.63,Anestesiologia
+PROC008,Aprovado,Alinhamento terapêutico e histórico de esgotamento de linhas conservadoras.,15390.1,Nefrologia
+PROC020,Aprovado,Parecer favorável para manutenção de internação por dependência de cuidados.,21369.78,Oftalmologia
+PROC001,Aprovado,Pertinência clínica do procedimento corroborada por exames complementares.,11044.99,Neurocirurgia
+PROC001,Aprovado,Correção de lateralidade e codificação TUSS em conformidade com o pedido.,7531.21,Anestesiologia
+PROC003,Negado,"Glosa técnica por incompatibilidade, redundância ou excesso de OPMEs solicitadas.",17184.56,Neurocirurgia
+PROC018,Negado,"Procedimento experimental, off-label ou fora do rol de coberturas contratuais.",10197.66,Neurocirurgia
+PROC013,Aprovado,Correção de lateralidade e codificação TUSS em conformidade com o pedido.,34359.13,Otorrinolaringologia
+PROC009,Aprovado,Quadro de urgência/emergência devidamente configurado em relatório médico.,12854.32,Clínica Médica
+PROC004,Negado,Negativa por Cobertura Parcial Temporária (CPT) vigente para doença preexistente.,2834.67,Pediatria
+PROC012,Aprovado,Pertinência clínica do procedimento corroborada por exames complementares.,29266.97,Cirurgia Cardiovascular
+PROC015,Aprovado,Pertinência clínica do procedimento corroborada por exames complementares.,3332.8,Otorrinolaringologia
+PROC015,Aprovado,Adequação integral às Diretrizes de Utilização (DUT) vigentes.,27939.49,Cardiologia
+PROC002,Negado,"Procedimento experimental, off-label ou fora do rol de coberturas contratuais.",7468.92,Ortopedia e Traumatologia
+PROC018,Aprovado,Alinhamento terapêutico e histórico de esgotamento de linhas conservadoras.,10870.55,Otorrinolaringologia
+PROC002,Aprovado,"Cobertura contratual vigente, sem restrições de carência ou CPT.",15968.96,Ortopedia e Traumatologia
+PROC013,Negado,Fracionamento indevido de códigos TUSS do procedimento cirúrgico principal.,6433.14,Oftalmologia
+PROC006,Aprovado,"Cobertura contratual vigente, sem restrições de carência ou CPT.",32441.69,Otorrinolaringologia
+PROC017,Negado,Fracionamento indevido de códigos TUSS do procedimento cirúrgico principal.,1881.22,Infectologia
+PROC020,Aprovado,"Cobertura contratual vigente, sem restrições de carência ou CPT.",4667.81,Gastroenterologia
+PROC011,Aprovado,Correção de lateralidade e codificação TUSS em conformidade com o pedido.,6832.59,Nefrologia
+PROC015,Aprovado,"Cobertura contratual vigente, sem restrições de carência ou CPT.",21981.98,Cirurgia Geral
+PROC014,Aprovado,Adequação integral às Diretrizes de Utilização (DUT) vigentes.,3736.39,Infectologia
+PROC013,Aprovado,Pertinência clínica do procedimento corroborada por exames complementares.,33404.28,Cirurgia Geral
+PROC005,Aprovado,Parecer favorável para manutenção de internação por dependência de cuidados.,2376.21,Anestesiologia
+PROC003,Negado,Negativa por Cobertura Parcial Temporária (CPT) vigente para doença preexistente.,6837.64,Reumatologia
+PROC019,Aprovado,Parecer favorável para manutenção de internação por dependência de cuidados.,33270.24,Cardiologia
+PROC012,Negado,Falta de comprovação do esgotamento de linhas de tratamento conservadoras.,2909.66,Oftalmologia
+PROC012,Aprovado,Indicação adequada e justificada de OPMEs conforme literatura atualizada.,9636.87,Ginecologia e Obstetrícia
+PROC004,Negado,"Divergência na codificação TUSS, lateralidade ou preenchimento incorreto da guia.",9560.54,Clínica Médica
+PROC018,Aprovado,Indicação adequada e justificada de OPMEs conforme literatura atualizada.,24996.48,Oncologia
+PROC007,Aprovado,Parecer favorável para manutenção de internação por dependência de cuidados.,7966.03,Anestesiologia
+PROC005,Aprovado,Parecer favorável para manutenção de internação por dependência de cuidados.,34907.47,Neurologia
+PROC011,Negado,"Procedimento experimental, off-label ou fora do rol de coberturas contratuais.",9988.0,Cirurgia Geral
+PROC010,Negado,Ausência de exames complementares que comprovem a necessidade do procedimento.,14389.69,Gastroenterologia
+PROC017,Aprovado,Alinhamento terapêutico e histórico de esgotamento de linhas conservadoras.,27971.82,Reumatologia
+PROC008,Aprovado,"Cobertura contratual vigente, sem restrições de carência ou CPT.",16998.32,Otorrinolaringologia
+PROC018,Aprovado,Quadro de urgência/emergência devidamente configurado em relatório médico.,3422.29,Endocrinologia
+PROC013,Aprovado,Correção de lateralidade e codificação TUSS em conformidade com o pedido.,29028.87,Otorrinolaringologia
+PROC003,Negado,"Glosa técnica por incompatibilidade, redundância ou excesso de OPMEs solicitadas.",8374.55,Endocrinologia
+PROC017,Aprovado,Pertinência clínica do procedimento corroborada por exames complementares.,27151.02,Cirurgia Geral
+PROC005,Aprovado,Adequação integral às Diretrizes de Utilização (DUT) vigentes.,29301.01,Urologia
+PROC017,Aprovado,Pertinência clínica do procedimento corroborada por exames complementares.,12105.93,Endocrinologia
+PROC008,Negado,"Procedimento experimental, off-label ou fora do rol de coberturas contratuais.",16161.2,Cirurgia Geral
+PROC003,Aprovado,Indicação adequada e justificada de OPMEs conforme literatura atualizada.,5430.76,Infectologia
+PROC010,Aprovado,Pertinência clínica do procedimento corroborada por exames complementares.,21203.13,Anestesiologia
+PROC019,Aprovado,"Cobertura contratual vigente, sem restrições de carência ou CPT.",29677.51,Endocrinologia
+PROC019,Negado,Não preenchimento dos critérios estabelecidos nas Diretrizes de Utilização (DUT).,1921.4,Cardiologia
+PROC019,Aprovado,Correção de lateralidade e codificação TUSS em conformidade com o pedido.,22092.06,Infectologia
+PROC001,Negado,"Procedimento experimental, off-label ou fora do rol de coberturas contratuais.",5569.25,Otorrinolaringologia
+PROC010,Aprovado,Correção de lateralidade e codificação TUSS em conformidade com o pedido.,11253.26,Otorrinolaringologia
+PROC003,Aprovado,Correção de lateralidade e codificação TUSS em conformidade com o pedido.,17567.69,Cardiologia
+PROC007,Aprovado,"Cobertura contratual vigente, sem restrições de carência ou CPT.",30318.2,Ortopedia e Traumatologia
+PROC011,Negado,Ausência de exames complementares que comprovem a necessidade do procedimento.,13811.64,Cirurgia Geral
+PROC017,Aprovado,Alinhamento terapêutico e histórico de esgotamento de linhas conservadoras.,16966.77,Cirurgia Cardiovascular
+PROC009,Aprovado,Quadro de urgência/emergência devidamente configurado em relatório médico.,2910.46,Oftalmologia
+PROC013,Aprovado,Pertinência clínica do procedimento corroborada por exames complementares.,28695.55,Anestesiologia
+PROC019,Aprovado,Pertinência clínica do procedimento corroborada por exames complementares.,18041.38,Ortopedia e Traumatologia
+PROC017,Aprovado,Indicação adequada e justificada de OPMEs conforme literatura atualizada.,18011.12,Oftalmologia
+PROC003,Aprovado,Alinhamento terapêutico e histórico de esgotamento de linhas conservadoras.,8471.88,Ginecologia e Obstetrícia
+PROC012,Aprovado,Parecer favorável para manutenção de internação por dependência de cuidados.,21396.13,Cardiologia
+PROC016,Aprovado,Quadro de urgência/emergência devidamente configurado em relatório médico.,15765.36,Nefrologia
+PROC009,Negado,Negativa por Cobertura Parcial Temporária (CPT) vigente para doença preexistente.,1291.74,Cirurgia Geral
+PROC002,Aprovado,"Cobertura contratual vigente, sem restrições de carência ou CPT.",19898.93,Pediatria
+PROC003,Aprovado,Indicação adequada e justificada de OPMEs conforme literatura atualizada.,29095.52,Ginecologia e Obstetrícia
+PROC020,Aprovado,Quadro de urgência/emergência devidamente configurado em relatório médico.,14513.95,Anestesiologia
+PROC011,Negado,Ausência de exames complementares que comprovem a necessidade do procedimento.,3983.51,Cirurgia Cardiovascular
+PROC017,Aprovado,Adequação integral às Diretrizes de Utilização (DUT) vigentes.,2515.29,Ginecologia e Obstetrícia
+PROC011,Aprovado,Pertinência clínica do procedimento corroborada por exames complementares.,21691.61,Otorrinolaringologia
+PROC017,Aprovado,"Cobertura contratual vigente, sem restrições de carência ou CPT.",6692.57,Endocrinologia
+PROC020,Aprovado,Parecer favorável para manutenção de internação por dependência de cuidados.,25155.41,Nefrologia
+PROC010,Negado,Negativa por Cobertura Parcial Temporária (CPT) vigente para doença preexistente.,6296.69,Otorrinolaringologia
+PROC004,Aprovado,Adequação integral às Diretrizes de Utilização (DUT) vigentes.,21375.55,Urologia
+PROC009,Aprovado,Adequação integral às Diretrizes de Utilização (DUT) vigentes.,20923.09,Pediatria
+PROC006,Aprovado,Correção de lateralidade e codificação TUSS em conformidade com o pedido.,6194.82,Neurocirurgia
+PROC008,Aprovado,Quadro de urgência/emergência devidamente configurado em relatório médico.,7648.51,Cardiologia
+PROC015,Aprovado,Correção de lateralidade e codificação TUSS em conformidade com o pedido.,24538.91,Ortopedia e Traumatologia
+PROC014,Negado,"Divergência na codificação TUSS, lateralidade ou preenchimento incorreto da guia.",15774.31,Neurocirurgia
+PROC002,Aprovado,"Cobertura contratual vigente, sem restrições de carência ou CPT.",34936.55,Endocrinologia
+PROC016,Aprovado,Pertinência clínica do procedimento corroborada por exames complementares.,16736.63,Neurocirurgia
+PROC018,Aprovado,Indicação adequada e justificada de OPMEs conforme literatura atualizada.,21820.59,Ortopedia e Traumatologia
+PROC007,Aprovado,Indicação adequada e justificada de OPMEs conforme literatura atualizada.,8800.51,Reumatologia
+PROC010,Negado,"Divergência na codificação TUSS, lateralidade ou preenchimento incorreto da guia.",6048.21,Nefrologia
+PROC012,Negado,"Tratamento elegível para via ambulatorial, sem justificativa clínica para internação.",5536.31,Cirurgia Cardiovascular
+PROC019,Aprovado,Correção de lateralidade e codificação TUSS em conformidade com o pedido.,28861.16,Cirurgia Cardiovascular
+PROC005,Aprovado,Quadro de urgência/emergência devidamente configurado em relatório médico.,12907.09,Nefrologia
+PROC015,Negado,Incompatibilidade técnica entre o CID informado e o procedimento solicitado.,4036.19,Infectologia
+PROC018,Negado,"Tratamento elegível para via ambulatorial, sem justificativa clínica para internação.",2902.28,Infectologia
+PROC020,Aprovado,Adequação integral às Diretrizes de Utilização (DUT) vigentes.,23840.39,Pediatria
+PROC017,Aprovado,Adequação integral às Diretrizes de Utilização (DUT) vigentes.,4586.69,Reumatologia
+PROC011,Aprovado,Pertinência clínica do procedimento corroborada por exames complementares.,1375.13,Otorrinolaringologia
+PROC018,Aprovado,Parecer favorável para manutenção de internação por dependência de cuidados.,17337.76,Gastroenterologia
+PROC007,Aprovado,Adequação integral às Diretrizes de Utilização (DUT) vigentes.,31888.27,Nefrologia
+PROC003,Aprovado,Adequação integral às Diretrizes de Utilização (DUT) vigentes.,32067.16,Pediatria
+PROC006,Negado,Ausência de exames complementares que comprovem a necessidade do procedimento.,16843.65,Urologia
+PROC002,Negado,Ausência de exames complementares que comprovem a necessidade do procedimento.,16890.65,Ginecologia e Obstetrícia
+PROC010,Aprovado,Quadro de urgência/emergência devidamente configurado em relatório médico.,32581.77,Cardiologia
+PROC011,Aprovado,Parecer favorável para manutenção de internação por dependência de cuidados.,31256.99,Nefrologia
+PROC005,Aprovado,Alinhamento terapêutico e histórico de esgotamento de linhas conservadoras.,28537.91,Neurocirurgia
+PROC011,Negado,"Tratamento elegível para via ambulatorial, sem justificativa clínica para internação.",13075.47,Gastroenterologia
+PROC001,Negado,Falta de comprovação do esgotamento de linhas de tratamento conservadoras.,12302.02,Ortopedia e Traumatologia
+PROC007,Aprovado,Correção de lateralidade e codificação TUSS em conformidade com o pedido.,29152.26,Gastroenterologia
+PROC017,Aprovado,Quadro de urgência/emergência devidamente configurado em relatório médico.,7445.6,Ortopedia e Traumatologia
+PROC005,Aprovado,Alinhamento terapêutico e histórico de esgotamento de linhas conservadoras.,1430.86,Otorrinolaringologia
+PROC013,Aprovado,Indicação adequada e justificada de OPMEs conforme literatura atualizada.,33446.38,Reumatologia
+PROC010,Negado,Não preenchimento dos critérios estabelecidos nas Diretrizes de Utilização (DUT).,5077.18,Pediatria
+PROC012,Aprovado,Quadro de urgência/emergência devidamente configurado em relatório médico.,16930.35,Reumatologia
+PROC006,Aprovado,Indicação adequada e justificada de OPMEs conforme literatura atualizada.,24531.81,Ginecologia e Obstetrícia
+PROC010,Aprovado,Alinhamento terapêutico e histórico de esgotamento de linhas conservadoras.,33558.79,Cirurgia Geral
+PROC016,Aprovado,"Cobertura contratual vigente, sem restrições de carência ou CPT.",15255.58,Endocrinologia
+PROC018,Negado,Incompatibilidade técnica entre o CID informado e o procedimento solicitado.,13832.54,Otorrinolaringologia
+PROC020,Aprovado,"Cobertura contratual vigente, sem restrições de carência ou CPT.",3839.87,Neurologia
+PROC019,Aprovado,Alinhamento terapêutico e histórico de esgotamento de linhas conservadoras.,20557.32,Oncologia
+PROC005,Aprovado,Parecer favorável para manutenção de internação por dependência de cuidados.,5128.91,Gastroenterologia
+PROC007,Aprovado,Parecer favorável para manutenção de internação por dependência de cuidados.,28533.79,Pediatria
+PROC015,Aprovado,Parecer favorável para manutenção de internação por dependência de cuidados.,20260.2,Endocrinologia
+PROC018,Aprovado,Indicação adequada e justificada de OPMEs conforme literatura atualizada.,25646.87,Oftalmologia
+PROC013,Negado,Incompatibilidade técnica entre o CID informado e o procedimento solicitado.,10620.45,Infectologia
+PROC002,Aprovado,Quadro de urgência/emergência devidamente configurado em relatório médico.,19491.33,Urologia
+PROC002,Negado,"Divergência na codificação TUSS, lateralidade ou preenchimento incorreto da guia.",1055.36,Neurologia
+PROC014,Negado,Fracionamento indevido de códigos TUSS do procedimento cirúrgico principal.,7053.07,Gastroenterologia
+PROC013,Negado,Fracionamento indevido de códigos TUSS do procedimento cirúrgico principal.,7073.8,Oftalmologia
+PROC018,Aprovado,"Cobertura contratual vigente, sem restrições de carência ou CPT.",5209.8,Endocrinologia
+PROC018,Aprovado,Alinhamento terapêutico e histórico de esgotamento de linhas conservadoras.,29416.97,Ginecologia e Obstetrícia
+PROC001,Aprovado,Correção de lateralidade e codificação TUSS em conformidade com o pedido.,19179.36,Nefrologia
+PROC008,Aprovado,Pertinência clínica do procedimento corroborada por exames complementares.,10516.96,Reumatologia
+PROC004,Negado,Fracionamento indevido de códigos TUSS do procedimento cirúrgico principal.,11261.16,Cardiologia
+PROC001,Aprovado,Quadro de urgência/emergência devidamente configurado em relatório médico.,21275.31,Reumatologia
+PROC015,Aprovado,Adequação integral às Diretrizes de Utilização (DUT) vigentes.,9472.01,Anestesiologia
+PROC002,Aprovado,Alinhamento terapêutico e histórico de esgotamento de linhas conservadoras.,26698.24,Ginecologia e Obstetrícia
+PROC002,Aprovado,Indicação adequada e justificada de OPMEs conforme literatura atualizada.,9114.66,Endocrinologia
+PROC019,Aprovado,"Cobertura contratual vigente, sem restrições de carência ou CPT.",9207.36,Ortopedia e Traumatologia
+PROC005,Aprovado,Indicação adequada e justificada de OPMEs conforme literatura atualizada.,10500.2,Neurocirurgia
+PROC018,Negado,Ausência de exames complementares que comprovem a necessidade do procedimento.,11454.88,Pediatria
+PROC014,Aprovado,"Cobertura contratual vigente, sem restrições de carência ou CPT.",33025.62,Cirurgia Cardiovascular
+PROC013,Aprovado,Correção de lateralidade e codificação TUSS em conformidade com o pedido.,14999.16,Neurocirurgia
+PROC010,Aprovado,Parecer favorável para manutenção de internação por dependência de cuidados.,9344.72,Ginecologia e Obstetrícia
+PROC008,Negado,Ausência de exames complementares que comprovem a necessidade do procedimento.,14601.08,Nefrologia
+PROC002,Aprovado,Correção de lateralidade e codificação TUSS em conformidade com o pedido.,20036.29,Cirurgia Cardiovascular
+PROC005,Aprovado,Alinhamento terapêutico e histórico de esgotamento de linhas conservadoras.,12362.89,Ginecologia e Obstetrícia
+PROC003,Negado,"Glosa técnica por incompatibilidade, redundância ou excesso de OPMEs solicitadas.",9873.62,Oftalmologia
+PROC007,Aprovado,Adequação integral às Diretrizes de Utilização (DUT) vigentes.,30728.37,Cardiologia
+PROC007,Negado,"Procedimento experimental, off-label ou fora do rol de coberturas contratuais.",4297.79,Pediatria
+PROC007,Aprovado,Adequação integral às Diretrizes de Utilização (DUT) vigentes.,8359.1,Ortopedia e Traumatologia
+PROC007,Negado,"Divergência na codificação TUSS, lateralidade ou preenchimento incorreto da guia.",16502.72,Oncologia
+PROC020,Aprovado,Alinhamento terapêutico e histórico de esgotamento de linhas conservadoras.,19860.28,Pneumologia
+PROC010,Aprovado,"Cobertura contratual vigente, sem restrições de carência ou CPT.",11624.67,Ginecologia e Obstetrícia
+PROC012,Negado,"Divergência na codificação TUSS, lateralidade ou preenchimento incorreto da guia.",2225.64,Neurocirurgia
+PROC016,Negado,Negativa por Cobertura Parcial Temporária (CPT) vigente para doença preexistente.,5976.14,Ortopedia e Traumatologia
+PROC002,Negado,Ausência de exames complementares que comprovem a necessidade do procedimento.,783.85,Pediatria
+PROC018,Aprovado,Correção de lateralidade e codificação TUSS em conformidade com o pedido.,11177.5,Pediatria
+PROC007,Aprovado,Alinhamento terapêutico e histórico de esgotamento de linhas conservadoras.,18076.39,Ortopedia e Traumatologia
+PROC011,Negado,"Divergência na codificação TUSS, lateralidade ou preenchimento incorreto da guia.",17413.89,Infectologia
+PROC016,Aprovado,"Cobertura contratual vigente, sem restrições de carência ou CPT.",6921.18,Oftalmologia
+PROC018,Aprovado,Adequação integral às Diretrizes de Utilização (DUT) vigentes.,18909.32,Otorrinolaringologia
+PROC003,Negado,Fracionamento indevido de códigos TUSS do procedimento cirúrgico principal.,2906.1,Cardiologia
+PROC008,Negado,Não preenchimento dos critérios estabelecidos nas Diretrizes de Utilização (DUT).,4327.59,Neurologia
+PROC015,Aprovado,Parecer favorável para manutenção de internação por dependência de cuidados.,23483.81,Cirurgia Geral
+PROC001,Aprovado,Correção de lateralidade e codificação TUSS em conformidade com o pedido.,1600.56,Clínica Médica
+PROC017,Aprovado,Indicação adequada e justificada de OPMEs conforme literatura atualizada.,1779.42,Infectologia
+PROC014,Aprovado,Quadro de urgência/emergência devidamente configurado em relatório médico.,18924.23,Gastroenterologia
+PROC008,Aprovado,Indicação adequada e justificada de OPMEs conforme literatura atualizada.,28754.25,Pneumologia
+PROC009,Aprovado,Correção de lateralidade e codificação TUSS em conformidade com o pedido.,16714.12,Ginecologia e Obstetrícia
+PROC008,Aprovado,Quadro de urgência/emergência devidamente configurado em relatório médico.,23296.27,Reumatologia
+PROC002,Aprovado,Correção de lateralidade e codificação TUSS em conformidade com o pedido.,19881.31,Neurologia
+PROC002,Negado,"Glosa técnica por incompatibilidade, redundância ou excesso de OPMEs solicitadas.",9247.52,Clínica Médica
+PROC014,Aprovado,Quadro de urgência/emergência devidamente configurado em relatório médico.,31443.94,Ortopedia e Traumatologia
+PROC002,Aprovado,Parecer favorável para manutenção de internação por dependência de cuidados.,10363.01,Reumatologia
+PROC003,Negado,Falta de comprovação do esgotamento de linhas de tratamento conservadoras.,12016.91,Infectologia
+PROC006,Aprovado,Alinhamento terapêutico e histórico de esgotamento de linhas conservadoras.,21041.82,Ortopedia e Traumatologia
+PROC013,Aprovado,Alinhamento terapêutico e histórico de esgotamento de linhas conservadoras.,20354.32,Neurologia
+PROC013,Aprovado,Pertinência clínica do procedimento corroborada por exames complementares.,27918.84,Cirurgia Cardiovascular
+PROC003,Negado,Negativa por Cobertura Parcial Temporária (CPT) vigente para doença preexistente.,1439.69,Neurocirurgia
+PROC014,Negado,Negativa por Cobertura Parcial Temporária (CPT) vigente para doença preexistente.,11090.45,Reumatologia
+PROC020,Aprovado,"Cobertura contratual vigente, sem restrições de carência ou CPT.",2201.35,Anestesiologia
+PROC009,Aprovado,"Cobertura contratual vigente, sem restrições de carência ou CPT.",19892.68,Oftalmologia
+PROC013,Aprovado,Correção de lateralidade e codificação TUSS em conformidade com o pedido.,4096.46,Urologia
+PROC020,Negado,"Glosa técnica por incompatibilidade, redundância ou excesso de OPMEs solicitadas.",1935.67,Nefrologia
+PROC005,Negado,Ausência de exames complementares que comprovem a necessidade do procedimento.,13443.97,Ginecologia e Obstetrícia
+PROC011,Aprovado,Adequação integral às Diretrizes de Utilização (DUT) vigentes.,33072.06,Cirurgia Geral
+PROC015,Negado,"Glosa técnica por incompatibilidade, redundância ou excesso de OPMEs solicitadas.",2818.87,Cirurgia Geral
+PROC006,Aprovado,Correção de lateralidade e codificação TUSS em conformidade com o pedido.,4691.3,Urologia
+PROC003,Aprovado,"Cobertura contratual vigente, sem restrições de carência ou CPT.",30393.67,Cirurgia Geral
+PROC001,Aprovado,Quadro de urgência/emergência devidamente configurado em relatório médico.,25699.72,Nefrologia
+PROC018,Aprovado,Pertinência clínica do procedimento corroborada por exames complementares.,24363.68,Reumatologia
+PROC006,Aprovado,Indicação adequada e justificada de OPMEs conforme literatura atualizada.,17867.59,Endocrinologia
+PROC003,Aprovado,Correção de lateralidade e codificação TUSS em conformidade com o pedido.,11331.63,Gastroenterologia
+PROC003,Aprovado,Alinhamento terapêutico e histórico de esgotamento de linhas conservadoras.,25566.4,Cirurgia Geral
+PROC016,Aprovado,Parecer favorável para manutenção de internação por dependência de cuidados.,4815.67,Anestesiologia
+PROC010,Negado,Negativa por Cobertura Parcial Temporária (CPT) vigente para doença preexistente.,15228.23,Clínica Médica
+PROC013,Aprovado,Correção de lateralidade e codificação TUSS em conformidade com o pedido.,28763.07,Ortopedia e Traumatologia
+PROC020,Aprovado,Alinhamento terapêutico e histórico de esgotamento de linhas conservadoras.,17390.53,Endocrinologia
+PROC006,Negado,"Tratamento elegível para via ambulatorial, sem justificativa clínica para internação.",13360.3,Ginecologia e Obstetrícia
+PROC016,Negado,Negativa por Cobertura Parcial Temporária (CPT) vigente para doença preexistente.,7080.97,Pediatria
+PROC013,Aprovado,Alinhamento terapêutico e histórico de esgotamento de linhas conservadoras.,21217.27,Cirurgia Geral
+PROC018,Aprovado,Adequação integral às Diretrizes de Utilização (DUT) vigentes.,33411.56,Gastroenterologia
+PROC015,Aprovado,Indicação adequada e justificada de OPMEs conforme literatura atualizada.,29297.33,Pneumologia
+PROC003,Aprovado,Pertinência clínica do procedimento corroborada por exames complementares.,22606.76,Urologia
+PROC008,Aprovado,Correção de lateralidade e codificação TUSS em conformidade com o pedido.,27870.79,Infectologia
+PROC003,Negado,"Divergência na codificação TUSS, lateralidade ou preenchimento incorreto da guia.",10689.27,Oftalmologia
+PROC018,Negado,Fracionamento indevido de códigos TUSS do procedimento cirúrgico principal.,10013.79,Neurocirurgia
+PROC012,Aprovado,Quadro de urgência/emergência devidamente configurado em relatório médico.,4896.69,Cirurgia Cardiovascular
+PROC008,Aprovado,Adequação integral às Diretrizes de Utilização (DUT) vigentes.,20236.85,Cirurgia Geral
+PROC013,Negado,Fracionamento indevido de códigos TUSS do procedimento cirúrgico principal.,2354.03,Ortopedia e Traumatologia
+PROC004,Aprovado,Alinhamento terapêutico e histórico de esgotamento de linhas conservadoras.,16267.32,Infectologia
+PROC013,Negado,Falta de comprovação do esgotamento de linhas de tratamento conservadoras.,12582.65,Oftalmologia
+PROC005,Negado,"Divergência na codificação TUSS, lateralidade ou preenchimento incorreto da guia.",2329.61,Cirurgia Geral
+PROC014,Aprovado,Pertinência clínica do procedimento corroborada por exames complementares.,12973.51,Neurologia
+PROC011,Negado,"Procedimento experimental, off-label ou fora do rol de coberturas contratuais.",8951.2,Oftalmologia
+PROC016,Aprovado,Parecer favorável para manutenção de internação por dependência de cuidados.,11979.14,Oncologia
+PROC010,Negado,"Glosa técnica por incompatibilidade, redundância ou excesso de OPMEs solicitadas.",895.24,Cardiologia
+PROC011,Aprovado,Pertinência clínica do procedimento corroborada por exames complementares.,32631.38,Oncologia
+PROC008,Aprovado,Pertinência clínica do procedimento corroborada por exames complementares.,12387.45,Neurocirurgia
+PROC014,Aprovado,Correção de lateralidade e codificação TUSS em conformidade com o pedido.,22485.9,Oftalmologia
+PROC006,Aprovado,Alinhamento terapêutico e histórico de esgotamento de linhas conservadoras.,16395.64,Urologia
+PROC014,Aprovado,Alinhamento terapêutico e histórico de esgotamento de linhas conservadoras.,8155.52,Ginecologia e Obstetrícia
+PROC003,Aprovado,Pertinência clínica do procedimento corroborada por exames complementares.,13563.8,Pediatria
+PROC007,Aprovado,Parecer favorável para manutenção de internação por dependência de cuidados.,19036.77,Oftalmologia
+PROC011,Aprovado,Correção de lateralidade e codificação TUSS em conformidade com o pedido.,21040.76,Anestesiologia
+PROC012,Negado,Falta de comprovação do esgotamento de linhas de tratamento conservadoras.,3519.23,Cirurgia Geral
+PROC010,Aprovado,Pertinência clínica do procedimento corroborada por exames complementares.,11785.68,Anestesiologia
+PROC008,Aprovado,"Cobertura contratual vigente, sem restrições de carência ou CPT.",24638.16,Nefrologia
+PROC017,Aprovado,Pertinência clínica do procedimento corroborada por exames complementares.,20628.44,Ginecologia e Obstetrícia
+PROC014,Aprovado,Pertinência clínica do procedimento corroborada por exames complementares.,19956.05,Gastroenterologia
+PROC016,Aprovado,"Cobertura contratual vigente, sem restrições de carência ou CPT.",29659.1,Nefrologia
+PROC020,Negado,Não preenchimento dos critérios estabelecidos nas Diretrizes de Utilização (DUT).,8980.66,Cardiologia
+PROC007,Negado,"Procedimento experimental, off-label ou fora do rol de coberturas contratuais.",11928.72,Ginecologia e Obstetrícia
+PROC014,Aprovado,Parecer favorável para manutenção de internação por dependência de cuidados.,17718.04,Otorrinolaringologia
+PROC003,Aprovado,Alinhamento terapêutico e histórico de esgotamento de linhas conservadoras.,11072.64,Pediatria
+PROC009,Aprovado,Pertinência clínica do procedimento corroborada por exames complementares.,27589.02,Reumatologia
+PROC019,Aprovado,Quadro de urgência/emergência devidamente configurado em relatório médico.,20557.74,Otorrinolaringologia
+PROC009,Negado,Negativa por Cobertura Parcial Temporária (CPT) vigente para doença preexistente.,9985.76,Cirurgia Cardiovascular
+PROC002,Aprovado,Correção de lateralidade e codificação TUSS em conformidade com o pedido.,4661.68,Oftalmologia
+PROC008,Negado,Não preenchimento dos critérios estabelecidos nas Diretrizes de Utilização (DUT).,8370.32,Nefrologia
+PROC012,Aprovado,Quadro de urgência/emergência devidamente configurado em relatório médico.,27416.35,Neurologia
+PROC008,Negado,Falta de comprovação do esgotamento de linhas de tratamento conservadoras.,12559.84,Pneumologia
+PROC020,Aprovado,Pertinência clínica do procedimento corroborada por exames complementares.,27727.91,Urologia
+PROC007,Aprovado,Indicação adequada e justificada de OPMEs conforme literatura atualizada.,21373.79,Cardiologia
+PROC006,Negado,"Tratamento elegível para via ambulatorial, sem justificativa clínica para internação.",5563.33,Ortopedia e Traumatologia
+PROC009,Negado,"Glosa técnica por incompatibilidade, redundância ou excesso de OPMEs solicitadas.",2872.81,Neurocirurgia
+PROC014,Negado,Ausência de exames complementares que comprovem a necessidade do procedimento.,12774.96,Cardiologia
+PROC005,Aprovado,"Cobertura contratual vigente, sem restrições de carência ou CPT.",29202.68,Reumatologia
+PROC013,Aprovado,Indicação adequada e justificada de OPMEs conforme literatura atualizada.,22420.07,Otorrinolaringologia
+PROC013,Aprovado,Quadro de urgência/emergência devidamente configurado em relatório médico.,14816.36,Oftalmologia
+PROC009,Aprovado,Parecer favorável para manutenção de internação por dependência de cuidados.,12262.38,Cirurgia Geral
+PROC001,Negado,"Divergência na codificação TUSS, lateralidade ou preenchimento incorreto da guia.",11609.71,Neurologia
+PROC012,Negado,Fracionamento indevido de códigos TUSS do procedimento cirúrgico principal.,4312.02,Neurologia
+PROC014,Aprovado,"Cobertura contratual vigente, sem restrições de carência ou CPT.",29198.01,Pneumologia
+PROC011,Aprovado,Parecer favorável para manutenção de internação por dependência de cuidados.,27844.66,Cirurgia Cardiovascular
+PROC002,Aprovado,Parecer favorável para manutenção de internação por dependência de cuidados.,1750.31,Cardiologia
+PROC006,Aprovado,Correção de lateralidade e codificação TUSS em conformidade com o pedido.,8038.36,Oftalmologia
+PROC005,Aprovado,Indicação adequada e justificada de OPMEs conforme literatura atualizada.,4354.89,Nefrologia
+PROC012,Aprovado,Pertinência clínica do procedimento corroborada por exames complementares.,2950.41,Infectologia
+PROC010,Aprovado,Quadro de urgência/emergência devidamente configurado em relatório médico.,24984.99,Reumatologia
+PROC001,Aprovado,Pertinência clínica do procedimento corroborada por exames complementares.,21266.37,Pneumologia
+PROC017,Aprovado,"Cobertura contratual vigente, sem restrições de carência ou CPT.",28818.29,Oftalmologia
+PROC014,Aprovado,Alinhamento terapêutico e histórico de esgotamento de linhas conservadoras.,14147.76,Endocrinologia
+PROC004,Aprovado,Indicação adequada e justificada de OPMEs conforme literatura atualizada.,5834.97,Oncologia
+PROC005,Aprovado,Adequação integral às Diretrizes de Utilização (DUT) vigentes.,21828.79,Endocrinologia
+PROC006,Aprovado,Alinhamento terapêutico e histórico de esgotamento de linhas conservadoras.,22429.11,Oftalmologia
+PROC005,Aprovado,Parecer favorável para manutenção de internação por dependência de cuidados.,30266.73,Urologia
+PROC003,Aprovado,Quadro de urgência/emergência devidamente configurado em relatório médico.,21127.6,Oncologia
+PROC013,Negado,Negativa por Cobertura Parcial Temporária (CPT) vigente para doença preexistente.,14343.84,Cirurgia Geral
+PROC008,Aprovado,Alinhamento terapêutico e histórico de esgotamento de linhas conservadoras.,19904.81,Infectologia
+PROC020,Aprovado,Adequação integral às Diretrizes de Utilização (DUT) vigentes.,29858.75,Anestesiologia
+PROC010,Aprovado,Alinhamento terapêutico e histórico de esgotamento de linhas conservadoras.,26477.12,Pneumologia
+PROC010,Negado,Incompatibilidade técnica entre o CID informado e o procedimento solicitado.,9160.54,Cardiologia
+PROC004,Aprovado,Quadro de urgência/emergência devidamente configurado em relatório médico.,19056.08,Reumatologia
+PROC001,Negado,Ausência de exames complementares que comprovem a necessidade do procedimento.,7269.67,Cirurgia Geral
+PROC019,Aprovado,Pertinência clínica do procedimento corroborada por exames complementares.,26980.14,Urologia
+PROC003,Aprovado,Adequação integral às Diretrizes de Utilização (DUT) vigentes.,10061.86,Clínica Médica
+PROC002,Negado,Fracionamento indevido de códigos TUSS do procedimento cirúrgico principal.,9365.69,Cardiologia
+PROC017,Aprovado,Correção de lateralidade e codificação TUSS em conformidade com o pedido.,3986.06,Urologia
+PROC018,Aprovado,Indicação adequada e justificada de OPMEs conforme literatura atualizada.,4025.58,Cirurgia Cardiovascular
+PROC003,Negado,Ausência de exames complementares que comprovem a necessidade do procedimento.,9886.83,Neurocirurgia
+PROC013,Aprovado,Quadro de urgência/emergência devidamente configurado em relatório médico.,11683.73,Pediatria
+PROC014,Aprovado,Quadro de urgência/emergência devidamente configurado em relatório médico.,32452.42,Reumatologia
+PROC004,Aprovado,Adequação integral às Diretrizes de Utilização (DUT) vigentes.,11654.0,Oftalmologia
+PROC006,Aprovado,Pertinência clínica do procedimento corroborada por exames complementares.,24910.69,Oncologia
+PROC006,Negado,"Procedimento experimental, off-label ou fora do rol de coberturas contratuais.",9551.4,Otorrinolaringologia
+PROC009,Aprovado,Indicação adequada e justificada de OPMEs conforme literatura atualizada.,25973.23,Gastroenterologia
+PROC004,Aprovado,Correção de lateralidade e codificação TUSS em conformidade com o pedido.,10392.94,Clínica Médica
+PROC003,Negado,Falta de comprovação do esgotamento de linhas de tratamento conservadoras.,11481.82,Infectologia
+PROC016,Aprovado,Adequação integral às Diretrizes de Utilização (DUT) vigentes.,18086.82,Oftalmologia
+PROC019,Aprovado,Indicação adequada e justificada de OPMEs conforme literatura atualizada.,27338.52,Gastroenterologia
+PROC019,Aprovado,Adequação integral às Diretrizes de Utilização (DUT) vigentes.,2688.48,Oncologia
+PROC001,Aprovado,"Cobertura contratual vigente, sem restrições de carência ou CPT.",14144.71,Reumatologia
+PROC005,Negado,Não preenchimento dos critérios estabelecidos nas Diretrizes de Utilização (DUT).,10175.13,Gastroenterologia
+PROC014,Aprovado,Correção de lateralidade e codificação TUSS em conformidade com o pedido.,32155.89,Reumatologia
+PROC011,Negado,Falta de comprovação do esgotamento de linhas de tratamento conservadoras.,7024.14,Infectologia
+PROC017,Aprovado,Adequação integral às Diretrizes de Utilização (DUT) vigentes.,33447.88,Cardiologia
+PROC003,Negado,"Tratamento elegível para via ambulatorial, sem justificativa clínica para internação.",6227.77,Oftalmologia
+PROC018,Aprovado,Alinhamento terapêutico e histórico de esgotamento de linhas conservadoras.,11055.91,Oftalmologia
+PROC010,Aprovado,"Cobertura contratual vigente, sem restrições de carência ou CPT.",21199.15,Anestesiologia
+PROC016,Negado,"Procedimento experimental, off-label ou fora do rol de coberturas contratuais.",13808.44,Pneumologia
+PROC008,Aprovado,Correção de lateralidade e codificação TUSS em conformidade com o pedido.,2008.17,Endocrinologia
+PROC018,Aprovado,Adequação integral às Diretrizes de Utilização (DUT) vigentes.,33343.47,Cirurgia Geral
+PROC001,Negado,"Tratamento elegível para via ambulatorial, sem justificativa clínica para internação.",2319.11,Ginecologia e Obstetrícia
+PROC017,Aprovado,Adequação integral às Diretrizes de Utilização (DUT) vigentes.,34072.5,Reumatologia
+PROC005,Aprovado,Alinhamento terapêutico e histórico de esgotamento de linhas conservadoras.,31528.32,Infectologia
+PROC017,Negado,Negativa por Cobertura Parcial Temporária (CPT) vigente para doença preexistente.,8523.02,Urologia
+PROC003,Aprovado,Pertinência clínica do procedimento corroborada por exames complementares.,22737.89,Pediatria
+PROC013,Aprovado,Adequação integral às Diretrizes de Utilização (DUT) vigentes.,15902.42,Neurologia
+PROC005,Aprovado,"Cobertura contratual vigente, sem restrições de carência ou CPT.",32500.22,Reumatologia
+PROC013,Aprovado,Indicação adequada e justificada de OPMEs conforme literatura atualizada.,9096.06,Ortopedia e Traumatologia
+PROC007,Negado,Falta de comprovação do esgotamento de linhas de tratamento conservadoras.,2407.02,Endocrinologia
+PROC004,Aprovado,"Cobertura contratual vigente, sem restrições de carência ou CPT.",14940.12,Gastroenterologia
+PROC018,Negado,Incompatibilidade técnica entre o CID informado e o procedimento solicitado.,8408.55,Cirurgia Geral
+PROC015,Negado,"Glosa técnica por incompatibilidade, redundância ou excesso de OPMEs solicitadas.",3258.27,Infectologia
+PROC010,Aprovado,"Cobertura contratual vigente, sem restrições de carência ou CPT.",6213.34,Anestesiologia
+PROC008,Aprovado,Adequação integral às Diretrizes de Utilização (DUT) vigentes.,24088.8,Cirurgia Geral
+PROC009,Aprovado,Correção de lateralidade e codificação TUSS em conformidade com o pedido.,30085.52,Gastroenterologia
+PROC018,Aprovado,Parecer favorável para manutenção de internação por dependência de cuidados.,4644.47,Cirurgia Cardiovascular
+PROC005,Aprovado,Alinhamento terapêutico e histórico de esgotamento de linhas conservadoras.,5618.18,Oncologia
+PROC013,Aprovado,Quadro de urgência/emergência devidamente configurado em relatório médico.,20882.54,Cirurgia Geral
+PROC009,Aprovado,Quadro de urgência/emergência devidamente configurado em relatório médico.,7883.96,Neurologia
+PROC015,Aprovado,"Cobertura contratual vigente, sem restrições de carência ou CPT.",5341.43,Endocrinologia
+PROC015,Aprovado,Correção de lateralidade e codificação TUSS em conformidade com o pedido.,28972.97,Cardiologia
+PROC013,Aprovado,Correção de lateralidade e codificação TUSS em conformidade com o pedido.,7040.88,Otorrinolaringologia
+PROC007,Aprovado,Parecer favorável para manutenção de internação por dependência de cuidados.,31059.72,Gastroenterologia
+PROC002,Aprovado,Alinhamento terapêutico e histórico de esgotamento de linhas conservadoras.,23078.01,Anestesiologia
+PROC016,Negado,"Divergência na codificação TUSS, lateralidade ou preenchimento incorreto da guia.",1567.13,Urologia
+PROC009,Aprovado,Alinhamento terapêutico e histórico de esgotamento de linhas conservadoras.,22921.66,Ginecologia e Obstetrícia
+PROC017,Aprovado,Adequação integral às Diretrizes de Utilização (DUT) vigentes.,34641.84,Reumatologia
+PROC012,Aprovado,Parecer favorável para manutenção de internação por dependência de cuidados.,12828.35,Otorrinolaringologia
+PROC019,Aprovado,Indicação adequada e justificada de OPMEs conforme literatura atualizada.,7277.78,Neurocirurgia
+PROC011,Aprovado,Indicação adequada e justificada de OPMEs conforme literatura atualizada.,3180.38,Anestesiologia
+PROC016,Aprovado,Alinhamento terapêutico e histórico de esgotamento de linhas conservadoras.,34120.52,Neurocirurgia
+PROC004,Aprovado,Indicação adequada e justificada de OPMEs conforme literatura atualizada.,19238.71,Reumatologia
+PROC002,Aprovado,Correção de lateralidade e codificação TUSS em conformidade com o pedido.,13192.4,Reumatologia
+PROC006,Aprovado,"Cobertura contratual vigente, sem restrições de carência ou CPT.",28449.91,Gastroenterologia
+PROC012,Aprovado,"Cobertura contratual vigente, sem restrições de carência ou CPT.",33227.49,Pediatria
+PROC019,Aprovado,Alinhamento terapêutico e histórico de esgotamento de linhas conservadoras.,29480.35,Endocrinologia
+PROC016,Aprovado,Parecer favorável para manutenção de internação por dependência de cuidados.,2483.17,Cirurgia Cardiovascular
+PROC002,Aprovado,Adequação integral às Diretrizes de Utilização (DUT) vigentes.,18993.96,Reumatologia
+PROC001,Negado,Incompatibilidade técnica entre o CID informado e o procedimento solicitado.,14612.79,Ortopedia e Traumatologia
+PROC011,Negado,Negativa por Cobertura Parcial Temporária (CPT) vigente para doença preexistente.,1542.23,Gastroenterologia
+PROC005,Negado,Ausência de exames complementares que comprovem a necessidade do procedimento.,14051.41,Pediatria
+PROC017,Negado,Negativa por Cobertura Parcial Temporária (CPT) vigente para doença preexistente.,12829.42,Cirurgia Geral
+PROC013,Aprovado,Indicação adequada e justificada de OPMEs conforme literatura atualizada.,12103.99,Pediatria
+PROC006,Negado,"Divergência na codificação TUSS, lateralidade ou preenchimento incorreto da guia.",11860.65,Urologia
+PROC006,Aprovado,"Cobertura contratual vigente, sem restrições de carência ou CPT.",8745.42,Cirurgia Cardiovascular
+PROC019,Aprovado,Indicação adequada e justificada de OPMEs conforme literatura atualizada.,5504.37,Gastroenterologia
+PROC001,Aprovado,Adequação integral às Diretrizes de Utilização (DUT) vigentes.,7354.36,Pediatria
+PROC011,Aprovado,Quadro de urgência/emergência devidamente configurado em relatório médico.,32860.05,Anestesiologia
+PROC005,Negado,Incompatibilidade técnica entre o CID informado e o procedimento solicitado.,6569.18,Ortopedia e Traumatologia
+PROC011,Aprovado,Quadro de urgência/emergência devidamente configurado em relatório médico.,28972.17,Gastroenterologia
+PROC011,Aprovado,Alinhamento terapêutico e histórico de esgotamento de linhas conservadoras.,9634.48,Oftalmologia
+PROC003,Aprovado,Quadro de urgência/emergência devidamente configurado em relatório médico.,25549.98,Cirurgia Geral
+PROC002,Aprovado,Correção de lateralidade e codificação TUSS em conformidade com o pedido.,33955.64,Ginecologia e Obstetrícia
+PROC014,Negado,Negativa por Cobertura Parcial Temporária (CPT) vigente para doença preexistente.,10055.42,Otorrinolaringologia
+PROC004,Negado,Falta de comprovação do esgotamento de linhas de tratamento conservadoras.,11891.97,Otorrinolaringologia
+PROC008,Aprovado,Adequação integral às Diretrizes de Utilização (DUT) vigentes.,11167.91,Gastroenterologia
+PROC011,Negado,"Glosa técnica por incompatibilidade, redundância ou excesso de OPMEs solicitadas.",6481.64,Infectologia
+PROC013,Negado,"Procedimento experimental, off-label ou fora do rol de coberturas contratuais.",16982.1,Gastroenterologia
+PROC003,Aprovado,Parecer favorável para manutenção de internação por dependência de cuidados.,25012.26,Ortopedia e Traumatologia
+PROC014,Aprovado,Correção de lateralidade e codificação TUSS em conformidade com o pedido.,6510.11,Gastroenterologia
+PROC004,Aprovado,Alinhamento terapêutico e histórico de esgotamento de linhas conservadoras.,15033.66,Ortopedia e Traumatologia
+PROC018,Aprovado,Indicação adequada e justificada de OPMEs conforme literatura atualizada.,11252.14,Cirurgia Cardiovascular
+PROC004,Aprovado,Parecer favorável para manutenção de internação por dependência de cuidados.,6391.34,Cardiologia
+PROC012,Aprovado,Indicação adequada e justificada de OPMEs conforme literatura atualizada.,29047.73,Clínica Médica
+PROC020,Aprovado,Adequação integral às Diretrizes de Utilização (DUT) vigentes.,8195.01,Otorrinolaringologia
+PROC010,Aprovado,Quadro de urgência/emergência devidamente configurado em relatório médico.,11622.34,Neurologia
+PROC013,Aprovado,Indicação adequada e justificada de OPMEs conforme literatura atualizada.,4280.43,Otorrinolaringologia
+PROC018,Aprovado,Correção de lateralidade e codificação TUSS em conformidade com o pedido.,13685.78,Ginecologia e Obstetrícia
+PROC015,Aprovado,Parecer favorável para manutenção de internação por dependência de cuidados.,10102.95,Cardiologia
+PROC009,Aprovado,Quadro de urgência/emergência devidamente configurado em relatório médico.,4096.91,Pediatria
+PROC012,Aprovado,Alinhamento terapêutico e histórico de esgotamento de linhas conservadoras.,19911.74,Cirurgia Cardiovascular
+PROC013,Aprovado,Parecer favorável para manutenção de internação por dependência de cuidados.,20557.74,Neurocirurgia
+PROC008,Aprovado,Correção de lateralidade e codificação TUSS em conformidade com o pedido.,31713.87,Otorrinolaringologia
+PROC002,Aprovado,Pertinência clínica do procedimento corroborada por exames complementares.,5265.53,Neurocirurgia
+PROC015,Negado,Ausência de exames complementares que comprovem a necessidade do procedimento.,17512.89,Gastroenterologia
+PROC007,Aprovado,Quadro de urgência/emergência devidamente configurado em relatório médico.,34603.86,Endocrinologia
+PROC014,Negado,Ausência de exames complementares que comprovem a necessidade do procedimento.,15096.89,Pneumologia
+PROC009,Negado,"Glosa técnica por incompatibilidade, redundância ou excesso de OPMEs solicitadas.",2022.98,Ortopedia e Traumatologia
+PROC018,Aprovado,Indicação adequada e justificada de OPMEs conforme literatura atualizada.,18765.46,Ginecologia e Obstetrícia
+PROC001,Aprovado,Correção de lateralidade e codificação TUSS em conformidade com o pedido.,5003.14,Anestesiologia
+PROC005,Aprovado,Quadro de urgência/emergência devidamente configurado em relatório médico.,32462.57,Endocrinologia
+PROC019,Negado,"Procedimento experimental, off-label ou fora do rol de coberturas contratuais.",15902.38,Oncologia
+PROC014,Aprovado,Parecer favorável para manutenção de internação por dependência de cuidados.,20534.39,Infectologia
+PROC016,Aprovado,Correção de lateralidade e codificação TUSS em conformidade com o pedido.,6062.22,Cardiologia
+PROC020,Aprovado,"Cobertura contratual vigente, sem restrições de carência ou CPT.",24539.36,Ginecologia e Obstetrícia
+PROC002,Negado,Negativa por Cobertura Parcial Temporária (CPT) vigente para doença preexistente.,854.08,Otorrinolaringologia
+PROC010,Aprovado,Parecer favorável para manutenção de internação por dependência de cuidados.,30208.34,Nefrologia
+PROC004,Aprovado,Parecer favorável para manutenção de internação por dependência de cuidados.,27362.24,Reumatologia
+PROC011,Negado,Falta de comprovação do esgotamento de linhas de tratamento conservadoras.,11797.21,Infectologia
+PROC007,Aprovado,Correção de lateralidade e codificação TUSS em conformidade com o pedido.,26243.93,Oftalmologia
+PROC017,Negado,"Procedimento experimental, off-label ou fora do rol de coberturas contratuais.",14351.08,Cirurgia Geral
+PROC003,Negado,Fracionamento indevido de códigos TUSS do procedimento cirúrgico principal.,2873.87,Nefrologia
+PROC017,Aprovado,Alinhamento terapêutico e histórico de esgotamento de linhas conservadoras.,30781.1,Pediatria
+PROC007,Aprovado,Parecer favorável para manutenção de internação por dependência de cuidados.,2908.9,Cardiologia
+PROC012,Aprovado,Parecer favorável para manutenção de internação por dependência de cuidados.,18273.27,Pneumologia
+PROC004,Aprovado,Parecer favorável para manutenção de internação por dependência de cuidados.,21278.67,Clínica Médica
+PROC006,Aprovado,"Cobertura contratual vigente, sem restrições de carência ou CPT.",12835.62,Otorrinolaringologia
+PROC009,Aprovado,Correção de lateralidade e codificação TUSS em conformidade com o pedido.,2878.21,Neurologia
+PROC019,Negado,Incompatibilidade técnica entre o CID informado e o procedimento solicitado.,12359.67,Pneumologia
+PROC009,Aprovado,Adequação integral às Diretrizes de Utilização (DUT) vigentes.,17224.49,Urologia
+PROC005,Aprovado,Adequação integral às Diretrizes de Utilização (DUT) vigentes.,8763.43,Gastroenterologia
+PROC020,Negado,"Tratamento elegível para via ambulatorial, sem justificativa clínica para internação.",7916.62,Nefrologia
+PROC013,Aprovado,Alinhamento terapêutico e histórico de esgotamento de linhas conservadoras.,16974.39,Cirurgia Geral
+PROC017,Aprovado,Quadro de urgência/emergência devidamente configurado em relatório médico.,1448.35,Anestesiologia
+PROC012,Aprovado,Indicação adequada e justificada de OPMEs conforme literatura atualizada.,11288.49,Cirurgia Cardiovascular
+PROC004,Aprovado,Indicação adequada e justificada de OPMEs conforme literatura atualizada.,22852.1,Otorrinolaringologia
+PROC009,Aprovado,Indicação adequada e justificada de OPMEs conforme literatura atualizada.,7566.57,Infectologia
+PROC017,Negado,Falta de comprovação do esgotamento de linhas de tratamento conservadoras.,7571.72,Reumatologia
+PROC011,Negado,"Divergência na codificação TUSS, lateralidade ou preenchimento incorreto da guia.",17955.71,Endocrinologia
+PROC009,Aprovado,Adequação integral às Diretrizes de Utilização (DUT) vigentes.,20906.2,Urologia
+PROC019,Aprovado,Alinhamento terapêutico e histórico de esgotamento de linhas conservadoras.,24397.55,Pneumologia
+PROC016,Aprovado,Pertinência clínica do procedimento corroborada por exames complementares.,29613.59,Cirurgia Geral
+PROC018,Aprovado,Parecer favorável para manutenção de internação por dependência de cuidados.,5524.51,Gastroenterologia
+PROC009,Negado,Ausência de exames complementares que comprovem a necessidade do procedimento.,17071.16,Cirurgia Cardiovascular
+PROC011,Aprovado,Alinhamento terapêutico e histórico de esgotamento de linhas conservadoras.,26354.3,Neurologia
+PROC010,Negado,Negativa por Cobertura Parcial Temporária (CPT) vigente para doença preexistente.,7004.44,Urologia
+PROC019,Aprovado,Quadro de urgência/emergência devidamente configurado em relatório médico.,17104.14,Nefrologia
+PROC019,Negado,"Glosa técnica por incompatibilidade, redundância ou excesso de OPMEs solicitadas.",8763.84,Pediatria
+PROC007,Aprovado,Correção de lateralidade e codificação TUSS em conformidade com o pedido.,19108.54,Neurocirurgia
+PROC014,Negado,Ausência de exames complementares que comprovem a necessidade do procedimento.,2903.89,Cardiologia
+PROC007,Aprovado,Parecer favorável para manutenção de internação por dependência de cuidados.,6040.98,Ortopedia e Traumatologia
+PROC006,Aprovado,Pertinência clínica do procedimento corroborada por exames complementares.,11793.4,Neurologia
+PROC002,Aprovado,Alinhamento terapêutico e histórico de esgotamento de linhas conservadoras.,26928.33,Clínica Médica
+PROC006,Negado,"Divergência na codificação TUSS, lateralidade ou preenchimento incorreto da guia.",14241.19,Pediatria
+PROC003,Aprovado,Correção de lateralidade e codificação TUSS em conformidade com o pedido.,14834.7,Endocrinologia
+PROC016,Aprovado,Alinhamento terapêutico e histórico de esgotamento de linhas conservadoras.,25896.28,Ginecologia e Obstetrícia
+PROC001,Negado,"Procedimento experimental, off-label ou fora do rol de coberturas contratuais.",3835.09,Ortopedia e Traumatologia
+PROC001,Aprovado,"Cobertura contratual vigente, sem restrições de carência ou CPT.",11748.72,Reumatologia
+PROC004,Aprovado,Indicação adequada e justificada de OPMEs conforme literatura atualizada.,6845.28,Ginecologia e Obstetrícia
+PROC002,Negado,"Divergência na codificação TUSS, lateralidade ou preenchimento incorreto da guia.",13237.06,Nefrologia
+PROC020,Aprovado,Pertinência clínica do procedimento corroborada por exames complementares.,12784.37,Neurocirurgia
+PROC016,Negado,Ausência de exames complementares que comprovem a necessidade do procedimento.,17091.48,Cirurgia Geral
+PROC013,Aprovado,Pertinência clínica do procedimento corroborada por exames complementares.,8338.23,Clínica Médica
+PROC001,Aprovado,Quadro de urgência/emergência devidamente configurado em relatório médico.,13590.79,Pediatria
+PROC002,Negado,"Tratamento elegível para via ambulatorial, sem justificativa clínica para internação.",13996.87,Ginecologia e Obstetrícia
+PROC020,Aprovado,Adequação integral às Diretrizes de Utilização (DUT) vigentes.,23574.58,Cardiologia
+PROC001,Aprovado,Correção de lateralidade e codificação TUSS em conformidade com o pedido.,16217.82,Cardiologia
+PROC004,Aprovado,Pertinência clínica do procedimento corroborada por exames complementares.,8145.73,Cirurgia Cardiovascular
+PROC001,Aprovado,Quadro de urgência/emergência devidamente configurado em relatório médico.,23591.92,Nefrologia
+PROC009,Aprovado,Pertinência clínica do procedimento corroborada por exames complementares.,15356.31,Anestesiologia
+PROC004,Negado,"Glosa técnica por incompatibilidade, redundância ou excesso de OPMEs solicitadas.",5447.37,Neurocirurgia
+PROC004,Aprovado,Alinhamento terapêutico e histórico de esgotamento de linhas conservadoras.,27495.01,Otorrinolaringologia
+PROC017,Aprovado,Correção de lateralidade e codificação TUSS em conformidade com o pedido.,11182.87,Pneumologia
+PROC002,Aprovado,Alinhamento terapêutico e histórico de esgotamento de linhas conservadoras.,24461.29,Cirurgia Cardiovascular
+PROC016,Aprovado,Adequação integral às Diretrizes de Utilização (DUT) vigentes.,23901.2,Ortopedia e Traumatologia
+PROC004,Aprovado,Pertinência clínica do procedimento corroborada por exames complementares.,33291.28,Pediatria
+PROC017,Negado,"Glosa técnica por incompatibilidade, redundância ou excesso de OPMEs solicitadas.",16333.64,Neurologia
+PROC008,Negado,"Tratamento elegível para via ambulatorial, sem justificativa clínica para internação.",5122.19,Oftalmologia
+PROC002,Negado,Não preenchimento dos critérios estabelecidos nas Diretrizes de Utilização (DUT).,15414.35,Oncologia
+PROC012,Aprovado,Quadro de urgência/emergência devidamente configurado em relatório médico.,4410.95,Ortopedia e Traumatologia
+PROC002,Negado,Ausência de exames complementares que comprovem a necessidade do procedimento.,6251.56,Clínica Médica
+PROC015,Aprovado,Quadro de urgência/emergência devidamente configurado em relatório médico.,13794.63,Anestesiologia
+PROC011,Aprovado,Correção de lateralidade e codificação TUSS em conformidade com o pedido.,33726.08,Gastroenterologia
+PROC009,Aprovado,Parecer favorável para manutenção de internação por dependência de cuidados.,28236.59,Ginecologia e Obstetrícia
+PROC006,Aprovado,Adequação integral às Diretrizes de Utilização (DUT) vigentes.,34377.04,Oncologia
+PROC006,Aprovado,Parecer favorável para manutenção de internação por dependência de cuidados.,28316.55,Oncologia
+PROC015,Aprovado,"Cobertura contratual vigente, sem restrições de carência ou CPT.",21863.91,Gastroenterologia
+PROC005,Negado,"Glosa técnica por incompatibilidade, redundância ou excesso de OPMEs solicitadas.",16032.89,Otorrinolaringologia
+PROC015,Aprovado,"Cobertura contratual vigente, sem restrições de carência ou CPT.",1617.78,Cardiologia
+PROC017,Negado,Incompatibilidade técnica entre o CID informado e o procedimento solicitado.,17613.17,Pediatria
+PROC011,Aprovado,Quadro de urgência/emergência devidamente configurado em relatório médico.,15830.26,Neurocirurgia
+PROC008,Aprovado,Correção de lateralidade e codificação TUSS em conformidade com o pedido.,6224.52,Otorrinolaringologia
+PROC018,Aprovado,Pertinência clínica do procedimento corroborada por exames complementares.,18288.18,Anestesiologia
+PROC016,Negado,"Glosa técnica por incompatibilidade, redundância ou excesso de OPMEs solicitadas.",13650.03,Otorrinolaringologia
+PROC011,Aprovado,Indicação adequada e justificada de OPMEs conforme literatura atualizada.,2901.85,Reumatologia
+PROC008,Aprovado,Correção de lateralidade e codificação TUSS em conformidade com o pedido.,28818.09,Cirurgia Cardiovascular
+PROC003,Aprovado,Parecer favorável para manutenção de internação por dependência de cuidados.,4175.07,Oftalmologia
+PROC016,Aprovado,Parecer favorável para manutenção de internação por dependência de cuidados.,26389.08,Oftalmologia
+PROC001,Aprovado,Adequação integral às Diretrizes de Utilização (DUT) vigentes.,20031.03,Oncologia
+PROC001,Negado,Falta de comprovação do esgotamento de linhas de tratamento conservadoras.,11656.92,Neurologia
+PROC017,Aprovado,Parecer favorável para manutenção de internação por dependência de cuidados.,33322.0,Cirurgia Cardiovascular
+PROC012,Negado,"Divergência na codificação TUSS, lateralidade ou preenchimento incorreto da guia.",6309.52,Cardiologia
+PROC020,Aprovado,"Cobertura contratual vigente, sem restrições de carência ou CPT.",25397.88,Anestesiologia
+PROC004,Negado,Incompatibilidade técnica entre o CID informado e o procedimento solicitado.,538.45,Oncologia
+PROC012,Aprovado,"Cobertura contratual vigente, sem restrições de carência ou CPT.",24930.85,Nefrologia
+PROC002,Aprovado,Correção de lateralidade e codificação TUSS em conformidade com o pedido.,4815.3,Gastroenterologia
+PROC020,Aprovado,Correção de lateralidade e codificação TUSS em conformidade com o pedido.,8486.93,Pneumologia
+PROC007,Aprovado,Correção de lateralidade e codificação TUSS em conformidade com o pedido.,2771.71,Ortopedia e Traumatologia
+PROC019,Negado,"Divergência na codificação TUSS, lateralidade ou preenchimento incorreto da guia.",8504.29,Oncologia
+PROC019,Aprovado,Parecer favorável para manutenção de internação por dependência de cuidados.,1346.61,Neurocirurgia
+PROC002,Negado,Falta de comprovação do esgotamento de linhas de tratamento conservadoras.,8951.31,Cirurgia Cardiovascular
+PROC017,Aprovado,Pertinência clínica do procedimento corroborada por exames complementares.,25890.72,Gastroenterologia
+PROC005,Aprovado,"Cobertura contratual vigente, sem restrições de carência ou CPT.",18238.92,Oncologia
+PROC013,Negado,Incompatibilidade técnica entre o CID informado e o procedimento solicitado.,5287.93,Urologia
+PROC011,Aprovado,Pertinência clínica do procedimento corroborada por exames complementares.,5870.48,Nefrologia
+PROC020,Aprovado,"Cobertura contratual vigente, sem restrições de carência ou CPT.",25261.35,Neurocirurgia
+PROC018,Aprovado,Indicação adequada e justificada de OPMEs conforme literatura atualizada.,24407.46,Pneumologia
+PROC005,Aprovado,"Cobertura contratual vigente, sem restrições de carência ou CPT.",25209.92,Gastroenterologia
+PROC012,Aprovado,Correção de lateralidade e codificação TUSS em conformidade com o pedido.,23989.43,Cirurgia Cardiovascular
+PROC018,Negado,Fracionamento indevido de códigos TUSS do procedimento cirúrgico principal.,14645.33,Nefrologia
+PROC017,Aprovado,Pertinência clínica do procedimento corroborada por exames complementares.,2993.6,Oncologia
+PROC002,Aprovado,Pertinência clínica do procedimento corroborada por exames complementares.,34443.39,Pneumologia
+PROC009,Negado,"Tratamento elegível para via ambulatorial, sem justificativa clínica para internação.",4070.02,Endocrinologia
+PROC018,Aprovado,Parecer favorável para manutenção de internação por dependência de cuidados.,4663.82,Cardiologia
+PROC018,Negado,"Procedimento experimental, off-label ou fora do rol de coberturas contratuais.",7305.52,Reumatologia
+PROC017,Aprovado,Adequação integral às Diretrizes de Utilização (DUT) vigentes.,32515.19,Nefrologia
+PROC013,Negado,Negativa por Cobertura Parcial Temporária (CPT) vigente para doença preexistente.,17402.08,Urologia
+PROC002,Negado,Incompatibilidade técnica entre o CID informado e o procedimento solicitado.,11359.83,Clínica Médica
+PROC015,Negado,Negativa por Cobertura Parcial Temporária (CPT) vigente para doença preexistente.,13714.38,Reumatologia
+PROC018,Aprovado,Alinhamento terapêutico e histórico de esgotamento de linhas conservadoras.,11143.21,Anestesiologia
+PROC006,Aprovado,Pertinência clínica do procedimento corroborada por exames complementares.,26045.69,Neurologia
+PROC004,Aprovado,Indicação adequada e justificada de OPMEs conforme literatura atualizada.,20013.03,Ginecologia e Obstetrícia
+PROC005,Aprovado,Indicação adequada e justificada de OPMEs conforme literatura atualizada.,1390.81,Gastroenterologia
+PROC015,Aprovado,"Cobertura contratual vigente, sem restrições de carência ou CPT.",21374.56,Endocrinologia
+PROC020,Aprovado,"Cobertura contratual vigente, sem restrições de carência ou CPT.",3663.37,Nefrologia
+PROC011,Aprovado,Pertinência clínica do procedimento corroborada por exames complementares.,18796.49,Neurocirurgia
+PROC017,Aprovado,Correção de lateralidade e codificação TUSS em conformidade com o pedido.,4307.76,Gastroenterologia
+PROC008,Aprovado,"Cobertura contratual vigente, sem restrições de carência ou CPT.",13394.97,Pneumologia
+PROC007,Aprovado,Adequação integral às Diretrizes de Utilização (DUT) vigentes.,5077.6,Anestesiologia
+PROC012,Aprovado,Alinhamento terapêutico e histórico de esgotamento de linhas conservadoras.,33610.71,Oftalmologia
+PROC011,Negado,"Glosa técnica por incompatibilidade, redundância ou excesso de OPMEs solicitadas.",7252.83,Ginecologia e Obstetrícia
+PROC018,Aprovado,"Cobertura contratual vigente, sem restrições de carência ou CPT.",18583.65,Nefrologia
+PROC017,Aprovado,Indicação adequada e justificada de OPMEs conforme literatura atualizada.,31561.92,Oftalmologia
+PROC007,Aprovado,Quadro de urgência/emergência devidamente configurado em relatório médico.,6857.94,Ortopedia e Traumatologia
+PROC018,Aprovado,Quadro de urgência/emergência devidamente configurado em relatório médico.,8324.41,Cirurgia Cardiovascular
+PROC007,Negado,Incompatibilidade técnica entre o CID informado e o procedimento solicitado.,9910.7,Urologia
+PROC014,Negado,Ausência de exames complementares que comprovem a necessidade do procedimento.,915.68,Neurologia
+PROC011,Aprovado,Adequação integral às Diretrizes de Utilização (DUT) vigentes.,7216.14,Cardiologia
+PROC009,Aprovado,Alinhamento terapêutico e histórico de esgotamento de linhas conservadoras.,31991.35,Cirurgia Cardiovascular
+PROC014,Aprovado,Correção de lateralidade e codificação TUSS em conformidade com o pedido.,15836.25,Ginecologia e Obstetrícia
+PROC001,Aprovado,Adequação integral às Diretrizes de Utilização (DUT) vigentes.,22880.09,Ginecologia e Obstetrícia
+PROC020,Negado,Falta de comprovação do esgotamento de linhas de tratamento conservadoras.,1296.54,Neurologia
+PROC003,Negado,"Glosa técnica por incompatibilidade, redundância ou excesso de OPMEs solicitadas.",5572.14,Cirurgia Geral
+PROC010,Aprovado,Parecer favorável para manutenção de internação por dependência de cuidados.,14091.78,Anestesiologia
+PROC001,Aprovado,Alinhamento terapêutico e histórico de esgotamento de linhas conservadoras.,5809.69,Otorrinolaringologia
+PROC013,Aprovado,Pertinência clínica do procedimento corroborada por exames complementares.,11274.31,Cirurgia Cardiovascular
+PROC012,Aprovado,Pertinência clínica do procedimento corroborada por exames complementares.,5365.35,Clínica Médica
+PROC001,Aprovado,Quadro de urgência/emergência devidamente configurado em relatório médico.,11498.56,Pediatria
+PROC012,Aprovado,Pertinência clínica do procedimento corroborada por exames complementares.,6640.26,Pneumologia
+PROC008,Negado,Incompatibilidade técnica entre o CID informado e o procedimento solicitado.,2505.89,Anestesiologia
+PROC019,Negado,"Procedimento experimental, off-label ou fora do rol de coberturas contratuais.",8572.14,Cardiologia
+PROC018,Aprovado,Quadro de urgência/emergência devidamente configurado em relatório médico.,9673.24,Neurologia
+PROC007,Aprovado,"Cobertura contratual vigente, sem restrições de carência ou CPT.",13271.28,Pediatria
+PROC008,Aprovado,Quadro de urgência/emergência devidamente configurado em relatório médico.,31624.01,Oncologia
+PROC011,Aprovado,Indicação adequada e justificada de OPMEs conforme literatura atualizada.,24638.88,Otorrinolaringologia
+PROC005,Aprovado,"Cobertura contratual vigente, sem restrições de carência ou CPT.",33602.67,Pediatria
+PROC006,Aprovado,Alinhamento terapêutico e histórico de esgotamento de linhas conservadoras.,25272.33,Clínica Médica
+PROC014,Negado,Ausência de exames complementares que comprovem a necessidade do procedimento.,12392.65,Infectologia
+PROC011,Aprovado,"Cobertura contratual vigente, sem restrições de carência ou CPT.",27387.12,Otorrinolaringologia
+PROC016,Aprovado,Quadro de urgência/emergência devidamente configurado em relatório médico.,29652.6,Cirurgia Cardiovascular
+PROC005,Aprovado,Quadro de urgência/emergência devidamente configurado em relatório médico.,25786.98,Cirurgia Cardiovascular
+PROC001,Aprovado,Correção de lateralidade e codificação TUSS em conformidade com o pedido.,27198.97,Neurocirurgia
+PROC007,Aprovado,Parecer favorável para manutenção de internação por dependência de cuidados.,23302.1,Cardiologia
+PROC005,Aprovado,Indicação adequada e justificada de OPMEs conforme literatura atualizada.,5725.19,Cirurgia Geral
+PROC017,Aprovado,"Cobertura contratual vigente, sem restrições de carência ou CPT.",18173.25,Neurocirurgia
+PROC008,Aprovado,Pertinência clínica do procedimento corroborada por exames complementares.,16282.25,Anestesiologia
+PROC006,Negado,Ausência de exames complementares que comprovem a necessidade do procedimento.,13378.6,Pediatria
+PROC016,Aprovado,Parecer favorável para manutenção de internação por dependência de cuidados.,9033.15,Cirurgia Geral
+PROC009,Aprovado,Alinhamento terapêutico e histórico de esgotamento de linhas conservadoras.,18704.52,Cirurgia Geral
+PROC012,Aprovado,Parecer favorável para manutenção de internação por dependência de cuidados.,30996.46,Ginecologia e Obstetrícia
+PROC002,Aprovado,Indicação adequada e justificada de OPMEs conforme literatura atualizada.,29418.68,Ortopedia e Traumatologia
+PROC009,Aprovado,Pertinência clínica do procedimento corroborada por exames complementares.,13931.09,Pediatria
+PROC013,Aprovado,Quadro de urgência/emergência devidamente configurado em relatório médico.,18663.21,Cirurgia Geral
+PROC013,Aprovado,"Cobertura contratual vigente, sem restrições de carência ou CPT.",28822.6,Reumatologia
+PROC012,Negado,Falta de comprovação do esgotamento de linhas de tratamento conservadoras.,615.46,Otorrinolaringologia
+PROC005,Aprovado,Quadro de urgência/emergência devidamente configurado em relatório médico.,18591.5,Oftalmologia
+PROC009,Aprovado,Pertinência clínica do procedimento corroborada por exames complementares.,13443.14,Pneumologia
+PROC004,Aprovado,"Cobertura contratual vigente, sem restrições de carência ou CPT.",25544.64,Reumatologia
+PROC016,Aprovado,Pertinência clínica do procedimento corroborada por exames complementares.,23077.36,Otorrinolaringologia
+PROC014,Aprovado,Pertinência clínica do procedimento corroborada por exames complementares.,20583.84,Clínica Médica
+PROC006,Aprovado,Adequação integral às Diretrizes de Utilização (DUT) vigentes.,31308.96,Endocrinologia
+PROC005,Aprovado,Pertinência clínica do procedimento corroborada por exames complementares.,18662.46,Cardiologia
+PROC013,Negado,Não preenchimento dos critérios estabelecidos nas Diretrizes de Utilização (DUT).,15873.91,Anestesiologia
+PROC010,Aprovado,Parecer favorável para manutenção de internação por dependência de cuidados.,30514.82,Neurologia
+PROC006,Negado,Falta de comprovação do esgotamento de linhas de tratamento conservadoras.,2997.46,Reumatologia
+PROC019,Aprovado,Indicação adequada e justificada de OPMEs conforme literatura atualizada.,6868.99,Gastroenterologia
+PROC011,Aprovado,Quadro de urgência/emergência devidamente configurado em relatório médico.,8967.71,Oftalmologia
+PROC013,Aprovado,Alinhamento terapêutico e histórico de esgotamento de linhas conservadoras.,18867.64,Endocrinologia
+PROC017,Negado,Falta de comprovação do esgotamento de linhas de tratamento conservadoras.,2185.23,Urologia
+PROC016,Aprovado,Quadro de urgência/emergência devidamente configurado em relatório médico.,4349.82,Anestesiologia
+PROC005,Aprovado,Adequação integral às Diretrizes de Utilização (DUT) vigentes.,31517.55,Anestesiologia
+PROC014,Aprovado,Adequação integral às Diretrizes de Utilização (DUT) vigentes.,24780.33,Neurocirurgia
+PROC014,Negado,"Divergência na codificação TUSS, lateralidade ou preenchimento incorreto da guia.",14317.22,Reumatologia
+PROC013,Aprovado,Quadro de urgência/emergência devidamente configurado em relatório médico.,15581.54,Cirurgia Geral
+PROC009,Negado,"Glosa técnica por incompatibilidade, redundância ou excesso de OPMEs solicitadas.",5457.17,Otorrinolaringologia
+PROC018,Aprovado,Adequação integral às Diretrizes de Utilização (DUT) vigentes.,25169.23,Urologia
+PROC001,Aprovado,Adequação integral às Diretrizes de Utilização (DUT) vigentes.,13876.01,Pediatria
+PROC007,Aprovado,Quadro de urgência/emergência devidamente configurado em relatório médico.,6431.52,Ortopedia e Traumatologia
+PROC019,Aprovado,Correção de lateralidade e codificação TUSS em conformidade com o pedido.,20285.85,Infectologia
+PROC020,Negado,Fracionamento indevido de códigos TUSS do procedimento cirúrgico principal.,13712.01,Infectologia
+PROC014,Negado,"Divergência na codificação TUSS, lateralidade ou preenchimento incorreto da guia.",3627.59,Cirurgia Cardiovascular
+PROC018,Aprovado,Indicação adequada e justificada de OPMEs conforme literatura atualizada.,20724.61,Cirurgia Cardiovascular
+PROC013,Negado,"Glosa técnica por incompatibilidade, redundância ou excesso de OPMEs solicitadas.",13586.75,Endocrinologia
+PROC015,Aprovado,Correção de lateralidade e codificação TUSS em conformidade com o pedido.,27769.54,Gastroenterologia
+PROC018,Aprovado,Adequação integral às Diretrizes de Utilização (DUT) vigentes.,6632.94,Anestesiologia
+PROC001,Negado,"Divergência na codificação TUSS, lateralidade ou preenchimento incorreto da guia.",16702.58,Neurologia
+PROC014,Aprovado,Alinhamento terapêutico e histórico de esgotamento de linhas conservadoras.,13734.23,Neurologia
+PROC020,Negado,Fracionamento indevido de códigos TUSS do procedimento cirúrgico principal.,11244.4,Cardiologia
+PROC017,Negado,Falta de comprovação do esgotamento de linhas de tratamento conservadoras.,1505.6,Nefrologia
+PROC006,Aprovado,Alinhamento terapêutico e histórico de esgotamento de linhas conservadoras.,29949.19,Otorrinolaringologia
+PROC017,Aprovado,Alinhamento terapêutico e histórico de esgotamento de linhas conservadoras.,21993.42,Nefrologia
+PROC002,Aprovado,Adequação integral às Diretrizes de Utilização (DUT) vigentes.,34176.83,Cirurgia Geral
+PROC003,Negado,Negativa por Cobertura Parcial Temporária (CPT) vigente para doença preexistente.,12219.09,Infectologia
+PROC013,Aprovado,Adequação integral às Diretrizes de Utilização (DUT) vigentes.,26108.08,Pediatria
+PROC003,Aprovado,"Cobertura contratual vigente, sem restrições de carência ou CPT.",12944.66,Neurologia
+PROC009,Aprovado,Alinhamento terapêutico e histórico de esgotamento de linhas conservadoras.,16570.85,Reumatologia
+PROC013,Aprovado,Pertinência clínica do procedimento corroborada por exames complementares.,14961.15,Pediatria
+PROC004,Aprovado,Indicação adequada e justificada de OPMEs conforme literatura atualizada.,12690.85,Cirurgia Cardiovascular
+PROC004,Negado,"Procedimento experimental, off-label ou fora do rol de coberturas contratuais.",14730.08,Neurocirurgia
+PROC019,Aprovado,Correção de lateralidade e codificação TUSS em conformidade com o pedido.,20235.1,Infectologia
+PROC008,Negado,"Divergência na codificação TUSS, lateralidade ou preenchimento incorreto da guia.",12427.91,Ortopedia e Traumatologia
+PROC019,Aprovado,Indicação adequada e justificada de OPMEs conforme literatura atualizada.,3483.33,Clínica Médica
+PROC008,Negado,Fracionamento indevido de códigos TUSS do procedimento cirúrgico principal.,17220.3,Reumatologia
+PROC017,Aprovado,Indicação adequada e justificada de OPMEs conforme literatura atualizada.,9591.11,Cirurgia Cardiovascular
+PROC003,Aprovado,"Cobertura contratual vigente, sem restrições de carência ou CPT.",3769.77,Ginecologia e Obstetrícia
+PROC006,Aprovado,Alinhamento terapêutico e histórico de esgotamento de linhas conservadoras.,31427.89,Otorrinolaringologia
+PROC009,Negado,Incompatibilidade técnica entre o CID informado e o procedimento solicitado.,9232.49,Gastroenterologia
+PROC007,Negado,"Tratamento elegível para via ambulatorial, sem justificativa clínica para internação.",4118.63,Reumatologia
+PROC007,Negado,Negativa por Cobertura Parcial Temporária (CPT) vigente para doença preexistente.,3229.92,Reumatologia
+PROC004,Negado,"Divergência na codificação TUSS, lateralidade ou preenchimento incorreto da guia.",11241.97,Oncologia
+PROC018,Negado,Negativa por Cobertura Parcial Temporária (CPT) vigente para doença preexistente.,11361.68,Cardiologia
+PROC016,Negado,"Divergência na codificação TUSS, lateralidade ou preenchimento incorreto da guia.",3700.26,Pediatria
+PROC017,Aprovado,Pertinência clínica do procedimento corroborada por exames complementares.,3030.21,Infectologia
+PROC014,Negado,Não preenchimento dos critérios estabelecidos nas Diretrizes de Utilização (DUT).,9293.32,Otorrinolaringologia
+PROC013,Aprovado,Quadro de urgência/emergência devidamente configurado em relatório médico.,24800.67,Gastroenterologia
+PROC015,Aprovado,Adequação integral às Diretrizes de Utilização (DUT) vigentes.,23984.68,Ortopedia e Traumatologia
+PROC013,Aprovado,"Cobertura contratual vigente, sem restrições de carência ou CPT.",21911.9,Pediatria
+PROC009,Aprovado,Alinhamento terapêutico e histórico de esgotamento de linhas conservadoras.,10306.0,Gastroenterologia
+PROC020,Aprovado,Parecer favorável para manutenção de internação por dependência de cuidados.,15529.27,Ortopedia e Traumatologia
+PROC014,Aprovado,Correção de lateralidade e codificação TUSS em conformidade com o pedido.,10651.48,Cirurgia Geral
+PROC006,Aprovado,Alinhamento terapêutico e histórico de esgotamento de linhas conservadoras.,28719.64,Pediatria
+PROC009,Aprovado,Correção de lateralidade e codificação TUSS em conformidade com o pedido.,7826.94,Reumatologia
+PROC005,Negado,Ausência de exames complementares que comprovem a necessidade do procedimento.,7876.61,Otorrinolaringologia
+PROC005,Aprovado,"Cobertura contratual vigente, sem restrições de carência ou CPT.",27744.25,Neurocirurgia
+PROC010,Aprovado,Adequação integral às Diretrizes de Utilização (DUT) vigentes.,14665.98,Infectologia
+PROC006,Aprovado,Indicação adequada e justificada de OPMEs conforme literatura atualizada.,17307.03,Cardiologia
+PROC004,Negado,"Tratamento elegível para via ambulatorial, sem justificativa clínica para internação.",6816.84,Oftalmologia
+PROC018,Negado,"Tratamento elegível para via ambulatorial, sem justificativa clínica para internação.",6522.45,Cirurgia Cardiovascular
+PROC014,Aprovado,Alinhamento terapêutico e histórico de esgotamento de linhas conservadoras.,20697.66,Oncologia
+PROC018,Negado,"Tratamento elegível para via ambulatorial, sem justificativa clínica para internação.",6714.41,Gastroenterologia
+PROC017,Negado,"Divergência na codificação TUSS, lateralidade ou preenchimento incorreto da guia.",16068.57,Otorrinolaringologia
+PROC013,Aprovado,Pertinência clínica do procedimento corroborada por exames complementares.,30547.11,Anestesiologia
+PROC011,Aprovado,Correção de lateralidade e codificação TUSS em conformidade com o pedido.,29892.85,Urologia
+PROC003,Aprovado,Alinhamento terapêutico e histórico de esgotamento de linhas conservadoras.,11795.69,Neurologia
+PROC010,Aprovado,Correção de lateralidade e codificação TUSS em conformidade com o pedido.,10368.19,Infectologia
+PROC015,Negado,"Procedimento experimental, off-label ou fora do rol de coberturas contratuais.",17396.71,Cirurgia Geral
+PROC014,Aprovado,Adequação integral às Diretrizes de Utilização (DUT) vigentes.,5426.35,Gastroenterologia
+PROC008,Negado,"Glosa técnica por incompatibilidade, redundância ou excesso de OPMEs solicitadas.",4185.0,Infectologia
+PROC013,Aprovado,Parecer favorável para manutenção de internação por dependência de cuidados.,19737.06,Oncologia
+PROC001,Aprovado,Quadro de urgência/emergência devidamente configurado em relatório médico.,4712.78,Ginecologia e Obstetrícia
+PROC020,Aprovado,Correção de lateralidade e codificação TUSS em conformidade com o pedido.,11656.73,Endocrinologia
+PROC008,Aprovado,Pertinência clínica do procedimento corroborada por exames complementares.,5637.17,Nefrologia
+PROC006,Aprovado,"Cobertura contratual vigente, sem restrições de carência ou CPT.",30280.47,Clínica Médica
+PROC011,Aprovado,Indicação adequada e justificada de OPMEs conforme literatura atualizada.,19740.83,Otorrinolaringologia
+PROC005,Aprovado,Parecer favorável para manutenção de internação por dependência de cuidados.,22529.41,Cirurgia Cardiovascular
+PROC019,Aprovado,Indicação adequada e justificada de OPMEs conforme literatura atualizada.,31921.6,Urologia
+PROC016,Aprovado,Quadro de urgência/emergência devidamente configurado em relatório médico.,16134.88,Cirurgia Cardiovascular
+PROC012,Aprovado,Indicação adequada e justificada de OPMEs conforme literatura atualizada.,1556.79,Urologia
+PROC017,Aprovado,Parecer favorável para manutenção de internação por dependência de cuidados.,19286.34,Endocrinologia
+PROC016,Aprovado,Correção de lateralidade e codificação TUSS em conformidade com o pedido.,28171.21,Otorrinolaringologia
+PROC020,Negado,"Procedimento experimental, off-label ou fora do rol de coberturas contratuais.",7038.77,Reumatologia
+PROC014,Aprovado,Alinhamento terapêutico e histórico de esgotamento de linhas conservadoras.,6718.51,Cirurgia Cardiovascular
+PROC013,Aprovado,Quadro de urgência/emergência devidamente configurado em relatório médico.,15471.69,Ginecologia e Obstetrícia
+PROC008,Negado,Falta de comprovação do esgotamento de linhas de tratamento conservadoras.,14632.56,Neurocirurgia
+PROC009,Aprovado,Indicação adequada e justificada de OPMEs conforme literatura atualizada.,15156.15,Nefrologia
+PROC003,Aprovado,Quadro de urgência/emergência devidamente configurado em relatório médico.,22726.97,Gastroenterologia
+PROC020,Aprovado,Parecer favorável para manutenção de internação por dependência de cuidados.,7547.28,Oftalmologia
+PROC001,Aprovado,Adequação integral às Diretrizes de Utilização (DUT) vigentes.,7484.69,Endocrinologia
+PROC004,Aprovado,Parecer favorável para manutenção de internação por dependência de cuidados.,25776.22,Nefrologia
+PROC008,Aprovado,Parecer favorável para manutenção de internação por dependência de cuidados.,8540.96,Neurologia
+PROC014,Negado,"Divergência na codificação TUSS, lateralidade ou preenchimento incorreto da guia.",17964.36,Nefrologia
+PROC015,Aprovado,Pertinência clínica do procedimento corroborada por exames complementares.,3094.1,Cardiologia
+PROC013,Aprovado,Pertinência clínica do procedimento corroborada por exames complementares.,7696.1,Neurologia
+PROC009,Negado,"Glosa técnica por incompatibilidade, redundância ou excesso de OPMEs solicitadas.",17555.47,Ginecologia e Obstetrícia
+PROC008,Negado,"Divergência na codificação TUSS, lateralidade ou preenchimento incorreto da guia.",4825.34,Ginecologia e Obstetrícia
+PROC002,Aprovado,Quadro de urgência/emergência devidamente configurado em relatório médico.,18814.5,Pneumologia
+PROC007,Aprovado,Indicação adequada e justificada de OPMEs conforme literatura atualizada.,32844.08,Otorrinolaringologia
+PROC006,Negado,"Procedimento experimental, off-label ou fora do rol de coberturas contratuais.",9616.21,Cardiologia
+PROC009,Aprovado,Alinhamento terapêutico e histórico de esgotamento de linhas conservadoras.,13382.42,Otorrinolaringologia
+PROC002,Negado,Incompatibilidade técnica entre o CID informado e o procedimento solicitado.,11575.91,Pneumologia
+PROC011,Aprovado,Indicação adequada e justificada de OPMEs conforme literatura atualizada.,20962.75,Clínica Médica
+PROC013,Aprovado,Adequação integral às Diretrizes de Utilização (DUT) vigentes.,20840.4,Reumatologia
+PROC016,Aprovado,Quadro de urgência/emergência devidamente configurado em relatório médico.,9606.81,Anestesiologia
+PROC016,Aprovado,"Cobertura contratual vigente, sem restrições de carência ou CPT.",32662.69,Neurologia
+PROC002,Aprovado,Pertinência clínica do procedimento corroborada por exames complementares.,24904.89,Cardiologia
+PROC004,Aprovado,"Cobertura contratual vigente, sem restrições de carência ou CPT.",34380.64,Endocrinologia
+PROC012,Negado,Não preenchimento dos critérios estabelecidos nas Diretrizes de Utilização (DUT).,12561.87,Oftalmologia
+PROC012,Aprovado,Adequação integral às Diretrizes de Utilização (DUT) vigentes.,17603.21,Endocrinologia
+PROC015,Aprovado,Parecer favorável para manutenção de internação por dependência de cuidados.,7614.42,Cirurgia Cardiovascular
+PROC006,Aprovado,Parecer favorável para manutenção de internação por dependência de cuidados.,10505.97,Cirurgia Cardiovascular
+PROC020,Aprovado,Pertinência clínica do procedimento corroborada por exames complementares.,16389.19,Cirurgia Cardiovascular
+PROC009,Aprovado,Adequação integral às Diretrizes de Utilização (DUT) vigentes.,27426.03,Cirurgia Cardiovascular
+PROC017,Negado,Não preenchimento dos critérios estabelecidos nas Diretrizes de Utilização (DUT).,11345.36,Ginecologia e Obstetrícia
+PROC012,Aprovado,Quadro de urgência/emergência devidamente configurado em relatório médico.,23450.18,Anestesiologia
+PROC018,Aprovado,Parecer favorável para manutenção de internação por dependência de cuidados.,27081.81,Ginecologia e Obstetrícia
+PROC005,Aprovado,Correção de lateralidade e codificação TUSS em conformidade com o pedido.,22862.55,Anestesiologia
+PROC004,Aprovado,Quadro de urgência/emergência devidamente configurado em relatório médico.,2679.67,Oncologia
+PROC005,Negado,Incompatibilidade técnica entre o CID informado e o procedimento solicitado.,2373.47,Gastroenterologia
+PROC007,Aprovado,Correção de lateralidade e codificação TUSS em conformidade com o pedido.,23437.74,Oncologia
+PROC017,Negado,"Tratamento elegível para via ambulatorial, sem justificativa clínica para internação.",1359.0,Anestesiologia
+PROC008,Negado,Não preenchimento dos critérios estabelecidos nas Diretrizes de Utilização (DUT).,16778.69,Anestesiologia
+PROC007,Negado,"Glosa técnica por incompatibilidade, redundância ou excesso de OPMEs solicitadas.",8691.04,Otorrinolaringologia
+PROC002,Aprovado,Correção de lateralidade e codificação TUSS em conformidade com o pedido.,28984.5,Cirurgia Geral
+PROC002,Aprovado,Adequação integral às Diretrizes de Utilização (DUT) vigentes.,26019.35,Anestesiologia
+PROC010,Negado,"Procedimento experimental, off-label ou fora do rol de coberturas contratuais.",2199.59,Neurologia
+PROC008,Aprovado,Alinhamento terapêutico e histórico de esgotamento de linhas conservadoras.,18985.29,Cirurgia Cardiovascular

@@ -73,10 +73,10 @@ PROJETO_AUDITORIA/
 ### Gráficos
 
 **Volume de glosas por especialidade**
-![Volume de Glosas](3_graficos/grafico_glosas_volume.png)
+![Volume de Glosas](gráficos/grafico_glosas_volume.png)
 
 **Índice de negação (%) por especialidade**
-![Índice de Negação](3_graficos/grafico_indice_negacao.png)
+![Índice de Negação](gráficos/grafico_indice_negacao.png)
 
 ---
 

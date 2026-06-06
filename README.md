@@ -80,7 +80,7 @@ PROJETO_AUDITORIA/
 
 ![Dashboard Volume](graficos/dashboard_volume_glosas.png)
 
-![Dashboard Média](graficos/dashboard_media_valor.png)
+![Dashboard Media](graficos/dashboard_media_valor.png)
 ---
 
 ## Autor

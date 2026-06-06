@@ -1,4 +1,4 @@
-**Auditoria de Autorizações Hospitalares**
+### Auditoria de Autorizações Hospitalares
 
 Projeto de análise de dados aplicado à auditoria em saúde.
 Simula o fluxo real de trabalho de um auditor: desde a geração da base de autorizações até a identificação de padrões de glosas por especialidade médica.
@@ -48,9 +48,9 @@ PROJETO_AUDITORIA/
 
 ---
 
-**Resultados obtidos**
+### Resultados obtidos
 
-### Procedimentos mais negados
+**Procedimentos mais negados**
 | Procedimento | Total de Negativas |
 |---|---|
 | PROC008 | 21 |
@@ -59,7 +59,7 @@ PROJETO_AUDITORIA/
 | PROC002 | 18 |
 | PROC017 | 16 |
 
-### Especialidades com maior ticket médio de glosa
+**Especialidades com maior ticket médio de glosa**
 | Especialidade | Média da Glosa |
 |---|---|
 | Pneumologia | R$ 10.752,76 |
@@ -70,17 +70,17 @@ PROJETO_AUDITORIA/
 
 ---
 
-**Gráficos**
+### Gráficos
 
-### Volume de glosas por especialidade
+**Volume de glosas por especialidade**
 ![Volume de Glosas](3_graficos/grafico_glosas_volume.png)
 
-### Índice de negação (%) por especialidade
+**Índice de negação (%) por especialidade**
 ![Índice de Negação](3_graficos/grafico_indice_negacao.png)
 
 ---
 
-## 👤 Autor
+## Autor
 
 **Francis Maia**  
 Estudante de Sistemas de Informação | Auditoria Hospitalar  
